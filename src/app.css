@@ -1,0 +1,144 @@
+:root {
+  /* macOS Tahoe - SF Pro Font Family */
+  --font-body: -apple-system, BlinkMacSystemFont, "SF Pro Display",
+    "SF Pro Text", "Helvetica Neue", Arial, sans-serif;
+
+  /* Tahoe - Light Mode Colors */
+  --color-bg-1: #fafafa;
+  --color-bg-2: #f5f5f7;
+  --color-bg-3: #e8e8ed;
+  --color-bg-4: #d2d2d7;
+
+  /* Tahoe - Vibrant translucent materials */
+  --material-bg-1: rgba(255, 255, 255, 0.72);
+  --material-bg-2: rgba(255, 255, 255, 0.85);
+  --material-sidebar: rgba(245, 245, 247, 0.8);
+
+  /* Tahoe - Text colors */
+  --color-text-1: #1d1d1f;
+  --color-text-2: #424245;
+  --color-text-3: #86868b;
+  --color-text-4: #b0b0b5;
+
+  /* Tahoe - Rich, saturated accent colors */
+  --color-primary: #007aff;
+  --color-primary-hover: #0051d5;
+  --color-primary-light: rgba(0, 122, 255, 0.1);
+  --color-primary-text: #ffffff;
+
+  /* Tahoe - Additional vibrant colors */
+  --color-green: #34c759;
+  --color-orange: #ff9500;
+  --color-red: #ff3b30;
+  --color-purple: #af52de;
+  --color-pink: #ff2d55;
+  --color-teal: #5ac8fa;
+
+  /* Tahoe - Rounded corners */
+  --radius-sm: 0.5rem;
+  --radius-md: 0.75rem;
+  --radius-lg: 1rem;
+  --radius-xl: 1.25rem;
+
+  /* Tahoe - Layered shadows for depth */
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.04), 0 1px 2px rgba(0, 0, 0, 0.06);
+  --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.07), 0 2px 4px rgba(0, 0, 0, 0.06);
+  --shadow-lg: 0 10px 15px rgba(0, 0, 0, 0.08), 0 4px 6px rgba(0, 0, 0, 0.05);
+  --shadow-xl: 0 20px 25px rgba(0, 0, 0, 0.1), 0 8px 10px rgba(0, 0, 0, 0.06);
+
+  /* Tahoe - Glow effects */
+  --glow-primary: 0 0 20px rgba(0, 122, 255, 0.3);
+  --glow-card: 0 8px 32px rgba(0, 0, 0, 0.08);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    /* Tahoe Dark - Rich, deep backgrounds */
+    --color-bg-1: #000000;
+    --color-bg-2: #1c1c1e;
+    --color-bg-3: #2c2c2e;
+    --color-bg-4: #3a3a3c;
+
+    /* Tahoe Dark - Translucent materials */
+    --material-bg-1: rgba(28, 28, 30, 0.72);
+    --material-bg-2: rgba(28, 28, 30, 0.85);
+    --material-sidebar: rgba(28, 28, 30, 0.8);
+
+    /* Tahoe Dark - Text colors */
+    --color-text-1: #f5f5f7;
+    --color-text-2: #d1d1d6;
+    --color-text-3: #98989d;
+    --color-text-4: #636366;
+
+    /* Tahoe Dark - Vibrant accents (more saturated in dark mode) */
+    --color-primary: #0a84ff;
+    --color-primary-hover: #409cff;
+    --color-primary-light: rgba(10, 132, 255, 0.15);
+
+    --color-green: #32d74b;
+    --color-orange: #ff9f0a;
+    --color-red: #ff453a;
+    --color-purple: #bf5af2;
+    --color-pink: #ff375f;
+    --color-teal: #64d2ff;
+
+    /* Tahoe Dark - Enhanced shadows */
+    --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px 2px rgba(0, 0, 0, 0.4);
+    --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.4), 0 2px 4px rgba(0, 0, 0, 0.5);
+    --shadow-lg: 0 10px 15px rgba(0, 0, 0, 0.5), 0 4px 6px rgba(0, 0, 0, 0.4);
+    --shadow-xl: 0 20px 25px rgba(0, 0, 0, 0.6), 0 8px 10px rgba(0, 0, 0, 0.5);
+
+    --glow-primary: 0 0 20px rgba(10, 132, 255, 0.4);
+    --glow-card: 0 8px 32px rgba(0, 0, 0, 0.4);
+  }
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-body);
+  background-color: var(--color-bg-1);
+  color: var(--color-text-1);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  letter-spacing: -0.01em;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+button {
+  font-family: inherit;
+}
+
+/* macOS Tahoe - Translucent material helper */
+.material {
+  background: var(--material-bg-1);
+  -webkit-backdrop-filter: blur(20px) saturate(180%);
+  backdrop-filter: blur(20px) saturate(180%);
+}
+
+.material-2 {
+  background: var(--material-bg-2);
+  -webkit-backdrop-filter: blur(30px) saturate(180%);
+  backdrop-filter: blur(30px) saturate(180%);
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-text-3);
+  border-radius: 5px;
+  border: 2px solid var(--color-bg-2);
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-text-2);
+}
