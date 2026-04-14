@@ -1,0 +1,5807 @@
+{
+  "minecraft:pink_stained_glass_pane": [
+    233,
+    122,
+    159
+  ],
+  "minecraft:infested_chiseled_stone_bricks": [
+    119,
+    118,
+    119
+  ],
+  "minecraft:medium_amethyst_bud": [
+    158,
+    120,
+    201
+  ],
+  "minecraft:andesite_wall": [
+    136,
+    136,
+    136
+  ],
+  "minecraft:jungle_stairs": [
+    160,
+    115,
+    80
+  ],
+  "minecraft:magenta_carpet": [
+    189,
+    68,
+    179
+  ],
+  "minecraft:bamboo_button": [
+    193,
+    173,
+    80
+  ],
+  "minecraft:diorite_slab": [
+    188,
+    188,
+    188
+  ],
+  "minecraft:red_carpet": [
+    160,
+    39,
+    34
+  ],
+  "minecraft:warped_hanging_sign": [
+    57,
+    150,
+    147
+  ],
+  "minecraft:chipped_anvil": [
+    72,
+    72,
+    72
+  ],
+  "minecraft:spruce_fence_gate": [
+    114,
+    84,
+    48
+  ],
+  "minecraft:orange_candle": [
+    226,
+    131,
+    26
+  ],
+  "minecraft:polished_tuff_stairs": [
+    97,
+    104,
+    99
+  ],
+  "minecraft:light_gray_stained_glass_pane": [
+    147,
+    147,
+    147
+  ],
+  "minecraft:stripped_dark_oak_log": [
+    65,
+    44,
+    22
+  ],
+  "minecraft:yellow_banner": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:dead_horn_coral_fan": [
+    134,
+    125,
+    121
+  ],
+  "minecraft:bamboo_door": [
+    191,
+    171,
+    81
+  ],
+  "minecraft:polished_deepslate_stairs": [
+    72,
+    72,
+    73
+  ],
+  "minecraft:bamboo_shelf": [
+    182,
+    164,
+    75
+  ],
+  "minecraft:chiseled_resin_bricks": [
+    200,
+    84,
+    24
+  ],
+  "minecraft:potted_red_mushroom": [
+    216,
+    75,
+    67
+  ],
+  "minecraft:snow": [
+    249,
+    254,
+    254
+  ],
+  "minecraft:redstone_block": [
+    175,
+    24,
+    5
+  ],
+  "minecraft:water": [
+    43,
+    81,
+    158
+  ],
+  "minecraft:pale_moss_carpet": [
+    106,
+    112,
+    104
+  ],
+  "minecraft:crafting_table": [
+    119,
+    73,
+    42
+  ],
+  "minecraft:purple_concrete": [
+    100,
+    31,
+    156
+  ],
+  "minecraft:cracked_deepslate_bricks": [
+    64,
+    64,
+    65
+  ],
+  "minecraft:cobbled_deepslate_stairs": [
+    77,
+    77,
+    80
+  ],
+  "minecraft:bee_nest": [
+    202,
+    160,
+    74
+  ],
+  "minecraft:dark_oak_hanging_sign": [
+    72,
+    56,
+    36
+  ],
+  "minecraft:sticky_piston": [
+    109,
+    104,
+    96
+  ],
+  "minecraft:birch_wall_sign": [
+    192,
+    175,
+    121
+  ],
+  "minecraft:packed_mud": [
+    142,
+    106,
+    79
+  ],
+  "minecraft:mud": [
+    60,
+    57,
+    60
+  ],
+  "minecraft:crimson_stem": [
+    112,
+    49,
+    70
+  ],
+  "minecraft:potted_crimson_fungus": [
+    141,
+    44,
+    29
+  ],
+  "minecraft:waxed_weathered_copper_bars": [
+    84,
+    123,
+    94
+  ],
+  "minecraft:orange_stained_glass": [
+    216,
+    127,
+    51
+  ],
+  "minecraft:large_fern": [
+    131,
+    131,
+    131
+  ],
+  "minecraft:brown_wool": [
+    114,
+    71,
+    40
+  ],
+  "minecraft:petrified_oak_slab": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:birch_planks": [
+    192,
+    175,
+    121
+  ],
+  "minecraft:orange_wool": [
+    240,
+    118,
+    19
+  ],
+  "minecraft:polished_andesite_stairs": [
+    132,
+    134,
+    133
+  ],
+  "minecraft:potted_flowering_azalea_bush": [
+    114,
+    119,
+    70
+  ],
+  "minecraft:torch": [
+    138,
+    113,
+    63
+  ],
+  "minecraft:stripped_warped_hyphae": [
+    57,
+    150,
+    147
+  ],
+  "minecraft:crimson_nylium": [
+    130,
+    31,
+    31
+  ],
+  "minecraft:deepslate_brick_stairs": [
+    70,
+    70,
+    71
+  ],
+  "minecraft:bamboo_sign": [
+    193,
+    173,
+    80
+  ],
+  "minecraft:smooth_quartz": [
+    236,
+    230,
+    223
+  ],
+  "minecraft:warped_pressure_plate": [
+    43,
+    104,
+    99
+  ],
+  "minecraft:acacia_sign": [
+    168,
+    90,
+    50
+  ],
+  "minecraft:waxed_weathered_chiseled_copper": [
+    104,
+    150,
+    111
+  ],
+  "minecraft:purple_wool": [
+    121,
+    42,
+    172
+  ],
+  "minecraft:lectern": [
+    173,
+    137,
+    83
+  ],
+  "minecraft:cyan_banner": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:iron_door": [
+    194,
+    193,
+    193
+  ],
+  "minecraft:deepslate_redstone_ore": [
+    104,
+    73,
+    74
+  ],
+  "minecraft:stone": [
+    125,
+    125,
+    125
+  ],
+  "minecraft:weeping_vines_plant": [
+    132,
+    16,
+    12
+  ],
+  "minecraft:jungle_wall_sign": [
+    160,
+    115,
+    80
+  ],
+  "minecraft:nether_portal": [
+    87,
+    10,
+    191
+  ],
+  "minecraft:spruce_log": [
+    108,
+    80,
+    46
+  ],
+  "minecraft:weathered_copper_trapdoor": [
+    108,
+    153,
+    110
+  ],
+  "minecraft:dead_horn_coral_wall_fan": [
+    134,
+    125,
+    121
+  ],
+  "minecraft:orange_banner": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:blue_terracotta": [
+    74,
+    59,
+    91
+  ],
+  "minecraft:water_cauldron": [
+    18,
+    33,
+    66
+  ],
+  "minecraft:oxidized_chiseled_copper": [
+    83,
+    161,
+    132
+  ],
+  "minecraft:sweet_berry_bush": [
+    42,
+    89,
+    56
+  ],
+  "minecraft:carrots": [
+    56,
+    113,
+    37
+  ],
+  "minecraft:fire_coral_block": [
+    163,
+    35,
+    46
+  ],
+  "minecraft:polished_granite": [
+    154,
+    106,
+    89
+  ],
+  "minecraft:stripped_spruce_log": [
+    105,
+    80,
+    46
+  ],
+  "minecraft:mossy_stone_brick_slab": [
+    115,
+    121,
+    105
+  ],
+  "minecraft:vine": [
+    32,
+    82,
+    10
+  ],
+  "minecraft:bamboo_trapdoor": [
+    198,
+    179,
+    85
+  ],
+  "minecraft:lantern": [
+    106,
+    91,
+    83
+  ],
+  "minecraft:deepslate_emerald_ore": [
+    78,
+    104,
+    87
+  ],
+  "minecraft:warped_fence_gate": [
+    43,
+    104,
+    99
+  ],
+  "minecraft:waxed_weathered_copper_door": [
+    110,
+    150,
+    109
+  ],
+  "minecraft:glass": [
+    175,
+    213,
+    219
+  ],
+  "minecraft:lime_concrete": [
+    94,
+    168,
+    24
+  ],
+  "minecraft:quartz_slab": [
+    235,
+    229,
+    222
+  ],
+  "minecraft:torchflower": [
+    100,
+    101,
+    77
+  ],
+  "minecraft:cherry_fence_gate": [
+    226,
+    178,
+    172
+  ],
+  "minecraft:big_dripleaf": [
+    111,
+    141,
+    51
+  ],
+  "minecraft:soul_wall_torch": [
+    109,
+    115,
+    89
+  ],
+  "minecraft:light_gray_wall_banner": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:soul_lantern": [
+    71,
+    99,
+    114
+  ],
+  "minecraft:deepslate_brick_slab": [
+    70,
+    70,
+    71
+  ],
+  "minecraft:tube_coral_wall_fan": [
+    50,
+    91,
+    208
+  ],
+  "minecraft:dead_bush": [
+    107,
+    78,
+    40
+  ],
+  "minecraft:end_stone_brick_slab": [
+    218,
+    224,
+    162
+  ],
+  "minecraft:piston_head": [
+    109,
+    104,
+    96
+  ],
+  "minecraft:sandstone": [
+    223,
+    214,
+    170
+  ],
+  "minecraft:dried_kelp_block": [
+    50,
+    58,
+    38
+  ],
+  "minecraft:red_banner": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:purple_concrete_powder": [
+    131,
+    55,
+    177
+  ],
+  "minecraft:sand": [
+    219,
+    207,
+    163
+  ],
+  "minecraft:birch_fence": [
+    192,
+    175,
+    121
+  ],
+  "minecraft:mossy_cobblestone": [
+    110,
+    118,
+    94
+  ],
+  "minecraft:light_gray_shulker_box": [
+    124,
+    124,
+    115
+  ],
+  "minecraft:pink_concrete_powder": [
+    228,
+    153,
+    181
+  ],
+  "minecraft:birch_sign": [
+    192,
+    175,
+    121
+  ],
+  "minecraft:black_concrete": [
+    8,
+    10,
+    15
+  ],
+  "minecraft:pitcher_crop": [
+    193,
+    165,
+    103
+  ],
+  "minecraft:mangrove_propagule": [
+    96,
+    174,
+    83
+  ],
+  "minecraft:cobblestone_slab": [
+    127,
+    127,
+    127
+  ],
+  "minecraft:yellow_stained_glass": [
+    229,
+    229,
+    51
+  ],
+  "minecraft:wall_torch": [
+    138,
+    113,
+    63
+  ],
+  "minecraft:waxed_exposed_copper_bars": [
+    134,
+    107,
+    89
+  ],
+  "minecraft:red_sand": [
+    190,
+    102,
+    33
+  ],
+  "minecraft:crimson_fence_gate": [
+    101,
+    48,
+    70
+  ],
+  "minecraft:jungle_sapling": [
+    47,
+    81,
+    16
+  ],
+  "minecraft:red_terracotta": [
+    143,
+    61,
+    46
+  ],
+  "minecraft:tuff_bricks": [
+    98,
+    102,
+    95
+  ],
+  "minecraft:beehive": [
+    180,
+    146,
+    90
+  ],
+  "minecraft:orange_terracotta": [
+    161,
+    83,
+    37
+  ],
+  "minecraft:raw_gold_block": [
+    221,
+    169,
+    46
+  ],
+  "minecraft:sculk_catalyst": [
+    15,
+    31,
+    38
+  ],
+  "minecraft:nether_sprouts": [
+    19,
+    151,
+    133
+  ],
+  "minecraft:suspicious_gravel": [
+    129,
+    125,
+    124
+  ],
+  "minecraft:magenta_glazed_terracotta": [
+    208,
+    100,
+    191
+  ],
+  "minecraft:lime_candle_cake": [
+    248,
+    222,
+    214
+  ],
+  "minecraft:closed_eyeblossom": [
+    108,
+    98,
+    101
+  ],
+  "minecraft:cherry_door": [
+    223,
+    170,
+    164
+  ],
+  "minecraft:brown_candle_cake": [
+    248,
+    222,
+    214
+  ],
+  "minecraft:deepslate_tile_slab": [
+    54,
+    54,
+    55
+  ],
+  "minecraft:acacia_door": [
+    167,
+    95,
+    60
+  ],
+  "minecraft:allium": [
+    158,
+    137,
+    183
+  ],
+  "minecraft:stripped_bamboo_block": [
+    178,
+    158,
+    72
+  ],
+  "minecraft:warped_wall_sign": [
+    43,
+    104,
+    99
+  ],
+  "minecraft:warped_sign": [
+    43,
+    104,
+    99
+  ],
+  "minecraft:cyan_carpet": [
+    21,
+    137,
+    145
+  ],
+  "minecraft:stripped_jungle_wood": [
+    171,
+    132,
+    84
+  ],
+  "minecraft:grindstone": [
+    139,
+    139,
+    139
+  ],
+  "minecraft:purple_candle_cake": [
+    248,
+    222,
+    214
+  ],
+  "minecraft:nether_wart_block": [
+    114,
+    2,
+    2
+  ],
+  "minecraft:clay": [
+    160,
+    166,
+    179
+  ],
+  "minecraft:cake": [
+    248,
+    222,
+    214
+  ],
+  "minecraft:obsidian": [
+    15,
+    10,
+    24
+  ],
+  "minecraft:light_gray_candle_cake": [
+    248,
+    222,
+    214
+  ],
+  "minecraft:cyan_terracotta": [
+    86,
+    91,
+    91
+  ],
+  "minecraft:terracotta": [
+    152,
+    94,
+    67
+  ],
+  "minecraft:dripstone_block": [
+    134,
+    107,
+    92
+  ],
+  "minecraft:blue_ice": [
+    116,
+    167,
+    253
+  ],
+  "minecraft:repeater": [
+    169,
+    157,
+    156
+  ],
+  "minecraft:infested_cobblestone": [
+    127,
+    127,
+    127
+  ],
+  "minecraft:waxed_oxidized_copper_golem_statue": [
+    82,
+    162,
+    132
+  ],
+  "minecraft:infested_stone": [
+    125,
+    125,
+    125
+  ],
+  "minecraft:pale_oak_planks": [
+    227,
+    217,
+    216
+  ],
+  "minecraft:cracked_deepslate_tiles": [
+    52,
+    52,
+    52
+  ],
+  "minecraft:lime_bed": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:waxed_chiseled_copper": [
+    184,
+    100,
+    73
+  ],
+  "minecraft:stripped_cherry_log": [
+    215,
+    145,
+    148
+  ],
+  "minecraft:diamond_ore": [
+    121,
+    141,
+    140
+  ],
+  "minecraft:warped_door": [
+    44,
+    126,
+    120
+  ],
+  "minecraft:red_sandstone_wall": [
+    186,
+    99,
+    29
+  ],
+  "minecraft:red_nether_bricks": [
+    69,
+    7,
+    9
+  ],
+  "minecraft:light_gray_terracotta": [
+    135,
+    106,
+    97
+  ],
+  "minecraft:dark_prismarine_slab": [
+    51,
+    91,
+    75
+  ],
+  "minecraft:end_stone": [
+    219,
+    222,
+    158
+  ],
+  "minecraft:stripped_jungle_log": [
+    165,
+    122,
+    81
+  ],
+  "minecraft:honeycomb_block": [
+    229,
+    148,
+    29
+  ],
+  "minecraft:waxed_exposed_copper_trapdoor": [
+    161,
+    125,
+    104
+  ],
+  "minecraft:crimson_slab": [
+    101,
+    48,
+    70
+  ],
+  "minecraft:dark_oak_wall_hanging_sign": [
+    72,
+    56,
+    36
+  ],
+  "minecraft:polished_tuff_wall": [
+    97,
+    104,
+    99
+  ],
+  "minecraft:birch_wall_hanging_sign": [
+    196,
+    176,
+    118
+  ],
+  "minecraft:mangrove_shelf": [
+    109,
+    45,
+    42
+  ],
+  "minecraft:yellow_stained_glass_pane": [
+    221,
+    221,
+    48
+  ],
+  "minecraft:small_dripleaf": [
+    94,
+    119,
+    45
+  ],
+  "minecraft:dried_ghast": [
+    199,
+    192,
+    192
+  ],
+  "minecraft:bamboo_wall_sign": [
+    193,
+    173,
+    80
+  ],
+  "minecraft:diorite": [
+    188,
+    188,
+    188
+  ],
+  "minecraft:polished_blackstone_brick_wall": [
+    48,
+    42,
+    49
+  ],
+  "minecraft:vault": [
+    68,
+    72,
+    70
+  ],
+  "minecraft:crimson_sign": [
+    101,
+    48,
+    70
+  ],
+  "minecraft:crimson_roots": [
+    126,
+    8,
+    41
+  ],
+  "minecraft:raw_iron_block": [
+    166,
+    135,
+    107
+  ],
+  "minecraft:oak_fence_gate": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:cyan_candle": [
+    17,
+    123,
+    123
+  ],
+  "minecraft:potted_acacia_sapling": [
+    118,
+    117,
+    23
+  ],
+  "minecraft:iron_trapdoor": [
+    202,
+    202,
+    202
+  ],
+  "minecraft:deepslate_coal_ore": [
+    74,
+    74,
+    76
+  ],
+  "minecraft:stone_brick_slab": [
+    122,
+    121,
+    122
+  ],
+  "minecraft:cobblestone": [
+    127,
+    127,
+    127
+  ],
+  "minecraft:dead_bubble_coral_fan": [
+    140,
+    134,
+    130
+  ],
+  "minecraft:andesite_slab": [
+    136,
+    136,
+    136
+  ],
+  "minecraft:end_stone_brick_stairs": [
+    218,
+    224,
+    162
+  ],
+  "minecraft:stripped_crimson_stem": [
+    121,
+    56,
+    82
+  ],
+  "minecraft:light_blue_banner": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:exposed_copper_lantern": [
+    148,
+    131,
+    104
+  ],
+  "minecraft:spruce_shelf": [
+    104,
+    82,
+    47
+  ],
+  "minecraft:pale_oak_shelf": [
+    227,
+    217,
+    216
+  ],
+  "minecraft:pale_oak_wall_hanging_sign": [
+    245,
+    238,
+    236
+  ],
+  "minecraft:copper_door": [
+    192,
+    109,
+    82
+  ],
+  "minecraft:pink_terracotta": [
+    161,
+    78,
+    78
+  ],
+  "minecraft:pale_oak_door": [
+    216,
+    208,
+    206
+  ],
+  "minecraft:stripped_birch_log": [
+    191,
+    171,
+    116
+  ],
+  "minecraft:light_blue_stained_glass": [
+    102,
+    153,
+    216
+  ],
+  "minecraft:test_instance_block": [
+    127,
+    120,
+    119
+  ],
+  "minecraft:green_wool": [
+    84,
+    109,
+    27
+  ],
+  "minecraft:cyan_wool": [
+    21,
+    137,
+    145
+  ],
+  "minecraft:potted_white_tulip": [
+    93,
+    164,
+    71
+  ],
+  "minecraft:oxidized_copper_trapdoor": [
+    83,
+    161,
+    132
+  ],
+  "minecraft:pale_oak_sign": [
+    227,
+    217,
+    216
+  ],
+  "minecraft:brown_banner": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:soul_torch": [
+    109,
+    115,
+    89
+  ],
+  "minecraft:cherry_hanging_sign": [
+    215,
+    145,
+    148
+  ],
+  "minecraft:light_blue_carpet": [
+    58,
+    175,
+    217
+  ],
+  "minecraft:potted_warped_roots": [
+    20,
+    136,
+    123
+  ],
+  "minecraft:waxed_weathered_copper_chain": [
+    72,
+    108,
+    91
+  ],
+  "minecraft:potted_allium": [
+    158,
+    137,
+    183
+  ],
+  "minecraft:exposed_copper_golem_statue": [
+    161,
+    125,
+    103
+  ],
+  "minecraft:acacia_button": [
+    168,
+    90,
+    50
+  ],
+  "minecraft:brown_concrete": [
+    96,
+    59,
+    31
+  ],
+  "minecraft:light_blue_glazed_terracotta": [
+    94,
+    164,
+    208
+  ],
+  "minecraft:coarse_dirt": [
+    119,
+    85,
+    59
+  ],
+  "minecraft:oak_trapdoor": [
+    124,
+    99,
+    56
+  ],
+  "minecraft:acacia_stairs": [
+    168,
+    90,
+    50
+  ],
+  "minecraft:green_candle_cake": [
+    248,
+    222,
+    214
+  ],
+  "minecraft:weathered_cut_copper_stairs": [
+    109,
+    145,
+    107
+  ],
+  "minecraft:potted_red_tulip": [
+    89,
+    128,
+    32
+  ],
+  "minecraft:soul_soil": [
+    75,
+    57,
+    46
+  ],
+  "minecraft:bamboo_wall_hanging_sign": [
+    193,
+    173,
+    80
+  ],
+  "minecraft:waxed_exposed_cut_copper": [
+    154,
+    121,
+    101
+  ],
+  "minecraft:brain_coral_wall_fan": [
+    202,
+    84,
+    153
+  ],
+  "minecraft:lime_stained_glass_pane": [
+    122,
+    196,
+    24
+  ],
+  "minecraft:crimson_hyphae": [
+    92,
+    25,
+    29
+  ],
+  "minecraft:oxidized_copper": [
+    82,
+    162,
+    132
+  ],
+  "minecraft:prismarine": [
+    99,
+    156,
+    151
+  ],
+  "minecraft:dark_oak_sign": [
+    66,
+    43,
+    20
+  ],
+  "minecraft:birch_hanging_sign": [
+    196,
+    176,
+    118
+  ],
+  "minecraft:deepslate_gold_ore": [
+    115,
+    102,
+    78
+  ],
+  "minecraft:short_grass": [
+    82,
+    107,
+    50
+  ],
+  "minecraft:fletching_table": [
+    197,
+    180,
+    133
+  ],
+  "minecraft:trapped_chest": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:green_carpet": [
+    84,
+    109,
+    27
+  ],
+  "minecraft:polished_andesite": [
+    132,
+    134,
+    133
+  ],
+  "minecraft:pale_oak_log": [
+    198,
+    189,
+    187
+  ],
+  "minecraft:polished_tuff": [
+    97,
+    104,
+    99
+  ],
+  "minecraft:red_candle": [
+    153,
+    38,
+    36
+  ],
+  "minecraft:smoker": [
+    85,
+    83,
+    81
+  ],
+  "minecraft:red_nether_brick_stairs": [
+    69,
+    7,
+    9
+  ],
+  "minecraft:small_amethyst_bud": [
+    131,
+    99,
+    192
+  ],
+  "minecraft:black_candle_cake": [
+    248,
+    222,
+    214
+  ],
+  "minecraft:frosted_ice": [
+    135,
+    178,
+    252
+  ],
+  "minecraft:wet_sponge": [
+    171,
+    181,
+    70
+  ],
+  "minecraft:purple_shulker_box": [
+    103,
+    32,
+    156
+  ],
+  "minecraft:comparator": [
+    166,
+    161,
+    159
+  ],
+  "minecraft:bamboo_slab": [
+    193,
+    173,
+    80
+  ],
+  "minecraft:exposed_chiseled_copper": [
+    154,
+    119,
+    100
+  ],
+  "minecraft:dark_oak_stairs": [
+    66,
+    43,
+    20
+  ],
+  "minecraft:player_wall_head": [
+    81,
+    62,
+    50
+  ],
+  "minecraft:warped_stem": [
+    53,
+    109,
+    110
+  ],
+  "minecraft:light_blue_stained_glass_pane": [
+    97,
+    147,
+    208
+  ],
+  "minecraft:cut_copper_slab": [
+    191,
+    106,
+    80
+  ],
+  "minecraft:wither_skeleton_wall_skull": [
+    81,
+    62,
+    50
+  ],
+  "minecraft:soul_campfire": [
+    79,
+    74,
+    67
+  ],
+  "minecraft:twisting_vines_plant": [
+    20,
+    135,
+    122
+  ],
+  "minecraft:attached_melon_stem": [
+    141,
+    142,
+    141
+  ],
+  "minecraft:jack_o_lantern": [
+    198,
+    118,
+    24
+  ],
+  "minecraft:green_candle": [
+    72,
+    96,
+    20
+  ],
+  "minecraft:pink_banner": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:magenta_concrete_powder": [
+    192,
+    83,
+    184
+  ],
+  "minecraft:warped_wart_block": [
+    22,
+    119,
+    121
+  ],
+  "minecraft:waxed_oxidized_copper_bulb": [
+    136,
+    152,
+    102
+  ],
+  "minecraft:redstone_torch": [
+    182,
+    59,
+    44
+  ],
+  "minecraft:gray_stained_glass": [
+    76,
+    76,
+    76
+  ],
+  "minecraft:flower_pot": [
+    124,
+    68,
+    53
+  ],
+  "minecraft:blackstone_wall": [
+    42,
+    35,
+    40
+  ],
+  "minecraft:copper_trapdoor": [
+    190,
+    106,
+    79
+  ],
+  "minecraft:pale_oak_hanging_sign": [
+    245,
+    238,
+    236
+  ],
+  "minecraft:chain_command_block": [
+    131,
+    161,
+    147
+  ],
+  "minecraft:enchanting_table": [
+    128,
+    75,
+    85
+  ],
+  "minecraft:birch_fence_gate": [
+    192,
+    175,
+    121
+  ],
+  "minecraft:dead_fire_coral": [
+    136,
+    128,
+    124
+  ],
+  "minecraft:waxed_copper_trapdoor": [
+    190,
+    106,
+    79
+  ],
+  "minecraft:mangrove_planks": [
+    117,
+    54,
+    48
+  ],
+  "minecraft:dispenser": [
+    98,
+    97,
+    97
+  ],
+  "minecraft:potted_closed_eyeblossom": [
+    108,
+    98,
+    101
+  ],
+  "minecraft:black_wall_banner": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:red_bed": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:warped_slab": [
+    43,
+    104,
+    99
+  ],
+  "minecraft:polished_blackstone_button": [
+    53,
+    48,
+    56
+  ],
+  "minecraft:smooth_stone_slab": [
+    158,
+    158,
+    158
+  ],
+  "minecraft:jukebox": [
+    93,
+    64,
+    47
+  ],
+  "minecraft:mangrove_leaves": [
+    36,
+    90,
+    12
+  ],
+  "minecraft:kelp": [
+    87,
+    140,
+    44
+  ],
+  "minecraft:stripped_warped_stem": [
+    52,
+    128,
+    124
+  ],
+  "minecraft:pink_candle_cake": [
+    248,
+    222,
+    214
+  ],
+  "minecraft:light_blue_wall_banner": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:pink_candle": [
+    217,
+    131,
+    150
+  ],
+  "minecraft:brown_mushroom": [
+    153,
+    116,
+    92
+  ],
+  "minecraft:acacia_slab": [
+    168,
+    90,
+    50
+  ],
+  "minecraft:tall_seagrass": [
+    59,
+    139,
+    14
+  ],
+  "minecraft:potted_poppy": [
+    128,
+    64,
+    37
+  ],
+  "minecraft:weathered_copper_lantern": [
+    95,
+    133,
+    99
+  ],
+  "minecraft:lava_cauldron": [
+    73,
+    72,
+    74
+  ],
+  "minecraft:chiseled_copper": [
+    184,
+    100,
+    73
+  ],
+  "minecraft:cobweb": [
+    228,
+    233,
+    234
+  ],
+  "minecraft:dragon_egg": [
+    12,
+    9,
+    15
+  ],
+  "minecraft:blackstone_slab": [
+    42,
+    36,
+    41
+  ],
+  "minecraft:exposed_copper_trapdoor": [
+    161,
+    125,
+    104
+  ],
+  "minecraft:decorated_pot": [
+    152,
+    94,
+    67
+  ],
+  "minecraft:netherite_block": [
+    66,
+    61,
+    63
+  ],
+  "minecraft:red_wool": [
+    160,
+    39,
+    34
+  ],
+  "minecraft:weathered_lightning_rod": [
+    97,
+    142,
+    105
+  ],
+  "minecraft:dragon_head": [
+    81,
+    62,
+    50
+  ],
+  "minecraft:brown_carpet": [
+    114,
+    71,
+    40
+  ],
+  "minecraft:pearlescent_froglight": [
+    245,
+    240,
+    239
+  ],
+  "minecraft:red_sandstone_stairs": [
+    181,
+    97,
+    31
+  ],
+  "minecraft:orange_shulker_box": [
+    234,
+    106,
+    8
+  ],
+  "minecraft:birch_wood": [
+    216,
+    215,
+    210
+  ],
+  "minecraft:blue_shulker_box": [
+    43,
+    45,
+    140
+  ],
+  "minecraft:oxidized_copper_grate": [
+    82,
+    161,
+    131
+  ],
+  "minecraft:weeping_vines": [
+    104,
+    1,
+    0
+  ],
+  "minecraft:brown_glazed_terracotta": [
+    119,
+    106,
+    85
+  ],
+  "minecraft:purpur_block": [
+    169,
+    125,
+    169
+  ],
+  "minecraft:blue_concrete_powder": [
+    70,
+    73,
+    166
+  ],
+  "minecraft:oak_pressure_plate": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:iron_chain": [
+    51,
+    57,
+    74
+  ],
+  "minecraft:sugar_cane": [
+    148,
+    192,
+    101
+  ],
+  "minecraft:magenta_stained_glass": [
+    178,
+    76,
+    216
+  ],
+  "minecraft:brick_slab": [
+    150,
+    97,
+    83
+  ],
+  "minecraft:cherry_leaves": [
+    64,
+    122,
+    18
+  ],
+  "minecraft:bamboo_mosaic": [
+    190,
+    170,
+    78
+  ],
+  "minecraft:orange_wall_banner": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:diamond_block": [
+    98,
+    237,
+    228
+  ],
+  "minecraft:cyan_concrete": [
+    21,
+    119,
+    136
+  ],
+  "minecraft:horn_coral_fan": [
+    205,
+    183,
+    61
+  ],
+  "minecraft:lilac": [
+    154,
+    125,
+    147
+  ],
+  "minecraft:black_bed": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:dead_brain_coral": [
+    133,
+    125,
+    120
+  ],
+  "minecraft:scaffolding": [
+    170,
+    131,
+    73
+  ],
+  "minecraft:mossy_stone_bricks": [
+    115,
+    121,
+    105
+  ],
+  "minecraft:yellow_concrete_powder": [
+    232,
+    199,
+    54
+  ],
+  "minecraft:gray_concrete": [
+    54,
+    57,
+    61
+  ],
+  "minecraft:smooth_quartz_stairs": [
+    236,
+    230,
+    223
+  ],
+  "minecraft:white_concrete": [
+    207,
+    213,
+    214
+  ],
+  "minecraft:oxeye_daisy": [
+    179,
+    202,
+    143
+  ],
+  "minecraft:white_candle_cake": [
+    248,
+    222,
+    214
+  ],
+  "minecraft:mangrove_sign": [
+    117,
+    54,
+    48
+  ],
+  "minecraft:spruce_sapling": [
+    44,
+    60,
+    36
+  ],
+  "minecraft:black_stained_glass": [
+    25,
+    25,
+    25
+  ],
+  "minecraft:black_shulker_box": [
+    25,
+    25,
+    29
+  ],
+  "minecraft:quartz_pillar": [
+    235,
+    229,
+    222
+  ],
+  "minecraft:gray_banner": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:cyan_wall_banner": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:purple_stained_glass_pane": [
+    122,
+    61,
+    171
+  ],
+  "minecraft:respawn_anchor": [
+    76,
+    23,
+    150
+  ],
+  "minecraft:skeleton_wall_skull": [
+    81,
+    62,
+    50
+  ],
+  "minecraft:sponge": [
+    195,
+    192,
+    74
+  ],
+  "minecraft:pink_glazed_terracotta": [
+    235,
+    154,
+    181
+  ],
+  "minecraft:gray_wall_banner": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:bamboo_stairs": [
+    193,
+    173,
+    80
+  ],
+  "minecraft:blue_stained_glass_pane": [
+    48,
+    73,
+    171
+  ],
+  "minecraft:pink_bed": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:waxed_copper_lantern": [
+    158,
+    108,
+    75
+  ],
+  "minecraft:white_shulker_box": [
+    215,
+    220,
+    221
+  ],
+  "minecraft:crimson_wall_hanging_sign": [
+    137,
+    57,
+    90
+  ],
+  "minecraft:dark_oak_wood": [
+    60,
+    46,
+    26
+  ],
+  "minecraft:smooth_red_sandstone_slab": [
+    181,
+    97,
+    31
+  ],
+  "minecraft:warped_button": [
+    43,
+    104,
+    99
+  ],
+  "minecraft:pale_oak_leaves": [
+    32,
+    85,
+    10
+  ],
+  "minecraft:waxed_weathered_copper_chest": [
+    108,
+    153,
+    110
+  ],
+  "minecraft:blue_wool": [
+    53,
+    57,
+    157
+  ],
+  "minecraft:warped_fence": [
+    43,
+    104,
+    99
+  ],
+  "minecraft:deepslate_iron_ore": [
+    106,
+    99,
+    94
+  ],
+  "minecraft:stone_slab": [
+    125,
+    125,
+    125
+  ],
+  "minecraft:polished_deepslate": [
+    72,
+    72,
+    73
+  ],
+  "minecraft:jungle_hanging_sign": [
+    171,
+    132,
+    84
+  ],
+  "minecraft:smooth_basalt": [
+    72,
+    72,
+    78
+  ],
+  "minecraft:dead_tube_coral": [
+    118,
+    111,
+    107
+  ],
+  "minecraft:red_candle_cake": [
+    248,
+    222,
+    214
+  ],
+  "minecraft:waxed_exposed_copper_door": [
+    164,
+    123,
+    106
+  ],
+  "minecraft:copper_torch": [
+    117,
+    109,
+    73
+  ],
+  "minecraft:basalt": [
+    80,
+    81,
+    86
+  ],
+  "minecraft:oxidized_cut_copper_stairs": [
+    79,
+    153,
+    126
+  ],
+  "minecraft:red_stained_glass": [
+    153,
+    51,
+    51
+  ],
+  "minecraft:polished_blackstone_brick_stairs": [
+    48,
+    42,
+    49
+  ],
+  "minecraft:zombie_head": [
+    81,
+    62,
+    50
+  ],
+  "minecraft:waxed_copper_block": [
+    192,
+    107,
+    79
+  ],
+  "minecraft:chiseled_tuff": [
+    93,
+    98,
+    91
+  ],
+  "minecraft:dead_fire_coral_block": [
+    131,
+    123,
+    119
+  ],
+  "minecraft:blue_bed": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:gray_stained_glass_pane": [
+    73,
+    73,
+    73
+  ],
+  "minecraft:tripwire": [
+    129,
+    129,
+    129
+  ],
+  "minecraft:pale_oak_button": [
+    227,
+    217,
+    216
+  ],
+  "minecraft:spore_blossom": [
+    206,
+    96,
+    158
+  ],
+  "minecraft:weathered_copper": [
+    108,
+    153,
+    110
+  ],
+  "minecraft:moving_piston": [
+    109,
+    104,
+    96
+  ],
+  "minecraft:ender_chest": [
+    15,
+    10,
+    24
+  ],
+  "minecraft:potted_lily_of_the_valley": [
+    123,
+    174,
+    95
+  ],
+  "minecraft:tuff_slab": [
+    108,
+    109,
+    102
+  ],
+  "minecraft:tuff_wall": [
+    108,
+    109,
+    102
+  ],
+  "minecraft:raw_copper_block": [
+    154,
+    105,
+    79
+  ],
+  "minecraft:green_shulker_box": [
+    79,
+    100,
+    31
+  ],
+  "minecraft:mangrove_door": [
+    112,
+    48,
+    46
+  ],
+  "minecraft:exposed_copper_door": [
+    164,
+    123,
+    106
+  ],
+  "minecraft:mangrove_wall_sign": [
+    117,
+    54,
+    48
+  ],
+  "minecraft:brain_coral": [
+    197,
+    84,
+    152
+  ],
+  "minecraft:spruce_stairs": [
+    114,
+    84,
+    48
+  ],
+  "minecraft:orange_concrete": [
+    224,
+    97,
+    0
+  ],
+  "minecraft:podzol": [
+    91,
+    63,
+    24
+  ],
+  "minecraft:heavy_weighted_pressure_plate": [
+    220,
+    220,
+    220
+  ],
+  "minecraft:prismarine_brick_slab": [
+    99,
+    171,
+    158
+  ],
+  "minecraft:dead_fire_coral_fan": [
+    124,
+    118,
+    114
+  ],
+  "minecraft:waxed_copper_grate": [
+    191,
+    107,
+    79
+  ],
+  "minecraft:deepslate_brick_wall": [
+    70,
+    70,
+    71
+  ],
+  "minecraft:purple_carpet": [
+    121,
+    42,
+    172
+  ],
+  "minecraft:calibrated_sculk_sensor": [
+    27,
+    79,
+    100
+  ],
+  "minecraft:polished_diorite": [
+    192,
+    193,
+    194
+  ],
+  "minecraft:flowering_azalea": [
+    112,
+    121,
+    64
+  ],
+  "minecraft:resin_block": [
+    217,
+    99,
+    25
+  ],
+  "minecraft:waxed_exposed_copper": [
+    161,
+    125,
+    103
+  ],
+  "minecraft:polished_blackstone_slab": [
+    53,
+    48,
+    56
+  ],
+  "minecraft:oak_stairs": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:light_gray_candle": [
+    151,
+    147,
+    126
+  ],
+  "minecraft:mangrove_slab": [
+    117,
+    54,
+    48
+  ],
+  "minecraft:oak_leaves": [
+    40,
+    102,
+    13
+  ],
+  "minecraft:creeper_wall_head": [
+    81,
+    62,
+    50
+  ],
+  "minecraft:bubble_column": [
+    177,
+    177,
+    177
+  ],
+  "minecraft:torchflower_crop": [
+    64,
+    109,
+    76
+  ],
+  "minecraft:piston": [
+    109,
+    104,
+    96
+  ],
+  "minecraft:pink_tulip": [
+    99,
+    157,
+    78
+  ],
+  "minecraft:smooth_stone": [
+    158,
+    158,
+    158
+  ],
+  "minecraft:dark_oak_trapdoor": [
+    75,
+    49,
+    23
+  ],
+  "minecraft:white_wall_banner": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:gray_concrete_powder": [
+    76,
+    81,
+    84
+  ],
+  "minecraft:granite_slab": [
+    149,
+    103,
+    85
+  ],
+  "minecraft:horn_coral": [
+    209,
+    186,
+    62
+  ],
+  "minecraft:attached_pumpkin_stem": [
+    139,
+    139,
+    139
+  ],
+  "minecraft:cherry_wall_hanging_sign": [
+    215,
+    145,
+    148
+  ],
+  "minecraft:peony": [
+    129,
+    126,
+    139
+  ],
+  "minecraft:redstone_lamp": [
+    142,
+    101,
+    60
+  ],
+  "minecraft:sculk_sensor": [
+    7,
+    70,
+    84
+  ],
+  "minecraft:jungle_wall_hanging_sign": [
+    171,
+    132,
+    84
+  ],
+  "minecraft:calcite": [
+    223,
+    224,
+    220
+  ],
+  "minecraft:cave_vines": [
+    90,
+    109,
+    40
+  ],
+  "minecraft:sandstone_wall": [
+    216,
+    203,
+    155
+  ],
+  "minecraft:chiseled_tuff_bricks": [
+    110,
+    113,
+    106
+  ],
+  "minecraft:pale_oak_wood": [
+    87,
+    77,
+    75
+  ],
+  "minecraft:green_banner": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:spruce_button": [
+    114,
+    84,
+    48
+  ],
+  "minecraft:polished_deepslate_wall": [
+    72,
+    72,
+    73
+  ],
+  "minecraft:nether_brick_wall": [
+    44,
+    21,
+    26
+  ],
+  "minecraft:glowstone": [
+    171,
+    131,
+    84
+  ],
+  "minecraft:green_wall_banner": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:waxed_exposed_cut_copper_stairs": [
+    154,
+    121,
+    101
+  ],
+  "minecraft:waxed_oxidized_lightning_rod": [
+    255,
+    255,
+    255
+  ],
+  "minecraft:waxed_oxidized_copper": [
+    82,
+    162,
+    132
+  ],
+  "minecraft:waxed_cut_copper": [
+    191,
+    106,
+    80
+  ],
+  "minecraft:emerald_block": [
+    42,
+    203,
+    87
+  ],
+  "minecraft:dandelion": [
+    147,
+    172,
+    43
+  ],
+  "minecraft:waxed_copper_bars": [
+    155,
+    80,
+    55
+  ],
+  "minecraft:white_banner": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:lime_concrete_powder": [
+    125,
+    189,
+    41
+  ],
+  "minecraft:ladder": [
+    124,
+    96,
+    54
+  ],
+  "minecraft:spruce_planks": [
+    114,
+    84,
+    48
+  ],
+  "minecraft:rooted_dirt": [
+    144,
+    103,
+    76
+  ],
+  "minecraft:gray_bed": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:magenta_stained_glass_pane": [
+    171,
+    73,
+    208
+  ],
+  "minecraft:stripped_pale_oak_wood": [
+    245,
+    238,
+    236
+  ],
+  "minecraft:light_blue_bed": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:birch_slab": [
+    192,
+    175,
+    121
+  ],
+  "minecraft:bamboo_fence": [
+    206,
+    186,
+    89
+  ],
+  "minecraft:nether_brick_stairs": [
+    44,
+    21,
+    26
+  ],
+  "minecraft:fern": [
+    70,
+    91,
+    43
+  ],
+  "minecraft:potted_azure_bluet": [
+    169,
+    204,
+    127
+  ],
+  "minecraft:verdant_froglight": [
+    229,
+    244,
+    228
+  ],
+  "minecraft:cherry_wood": [
+    54,
+    33,
+    44
+  ],
+  "minecraft:dark_oak_shelf": [
+    65,
+    51,
+    32
+  ],
+  "minecraft:waxed_cut_copper_stairs": [
+    191,
+    106,
+    80
+  ],
+  "minecraft:jigsaw": [
+    45,
+    38,
+    47
+  ],
+  "minecraft:waxed_oxidized_copper_door": [
+    82,
+    160,
+    132
+  ],
+  "minecraft:campfire": [
+    79,
+    74,
+    67
+  ],
+  "minecraft:potted_dandelion": [
+    147,
+    172,
+    43
+  ],
+  "minecraft:nether_brick_fence": [
+    44,
+    21,
+    26
+  ],
+  "minecraft:blue_candle_cake": [
+    248,
+    222,
+    214
+  ],
+  "minecraft:brown_stained_glass": [
+    102,
+    76,
+    51
+  ],
+  "minecraft:copper_golem_statue": [
+    192,
+    107,
+    79
+  ],
+  "minecraft:cobbled_deepslate": [
+    77,
+    77,
+    80
+  ],
+  "minecraft:pink_concrete": [
+    213,
+    101,
+    142
+  ],
+  "minecraft:resin_clump": [
+    223,
+    111,
+    27
+  ],
+  "minecraft:stone_brick_stairs": [
+    122,
+    121,
+    122
+  ],
+  "minecraft:waxed_copper_chain": [
+    151,
+    79,
+    54
+  ],
+  "minecraft:oxidized_copper_golem_statue": [
+    82,
+    162,
+    132
+  ],
+  "minecraft:jungle_leaves": [
+    44,
+    109,
+    13
+  ],
+  "minecraft:warped_stairs": [
+    43,
+    104,
+    99
+  ],
+  "minecraft:coal_block": [
+    16,
+    15,
+    15
+  ],
+  "minecraft:mangrove_roots": [
+    74,
+    59,
+    38
+  ],
+  "minecraft:blue_concrete": [
+    44,
+    46,
+    143
+  ],
+  "minecraft:mossy_stone_brick_stairs": [
+    115,
+    121,
+    105
+  ],
+  "minecraft:yellow_wall_banner": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:deepslate_tile_stairs": [
+    54,
+    54,
+    55
+  ],
+  "minecraft:firefly_bush": [
+    87,
+    83,
+    43
+  ],
+  "minecraft:furnace": [
+    110,
+    109,
+    109
+  ],
+  "minecraft:spruce_door": [
+    106,
+    80,
+    48
+  ],
+  "minecraft:cave_vines_plant": [
+    88,
+    101,
+    38
+  ],
+  "minecraft:magenta_wool": [
+    189,
+    68,
+    179
+  ],
+  "minecraft:polished_blackstone_pressure_plate": [
+    53,
+    48,
+    56
+  ],
+  "minecraft:smooth_sandstone_slab": [
+    223,
+    214,
+    170
+  ],
+  "minecraft:dead_bubble_coral_wall_fan": [
+    140,
+    134,
+    130
+  ],
+  "minecraft:orange_carpet": [
+    240,
+    118,
+    19
+  ],
+  "minecraft:nether_brick_slab": [
+    44,
+    21,
+    26
+  ],
+  "minecraft:end_stone_bricks": [
+    218,
+    224,
+    162
+  ],
+  "minecraft:crimson_planks": [
+    101,
+    48,
+    70
+  ],
+  "minecraft:blue_candle": [
+    64,
+    84,
+    179
+  ],
+  "minecraft:ice": [
+    145,
+    183,
+    253
+  ],
+  "minecraft:wildflowers": [
+    237,
+    213,
+    117
+  ],
+  "minecraft:lime_banner": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:diorite_stairs": [
+    188,
+    188,
+    188
+  ],
+  "minecraft:lapis_ore": [
+    107,
+    117,
+    141
+  ],
+  "minecraft:glow_item_frame": [
+    192,
+    175,
+    121
+  ],
+  "minecraft:resin_brick_slab": [
+    205,
+    88,
+    24
+  ],
+  "minecraft:oxidized_copper_chain": [
+    61,
+    118,
+    99
+  ],
+  "minecraft:cherry_sign": [
+    226,
+    178,
+    172
+  ],
+  "minecraft:infested_deepslate": [
+    87,
+    87,
+    89
+  ],
+  "minecraft:waxed_weathered_cut_copper": [
+    109,
+    145,
+    107
+  ],
+  "minecraft:magma_block": [
+    142,
+    63,
+    31
+  ],
+  "minecraft:pumpkin": [
+    198,
+    118,
+    24
+  ],
+  "minecraft:weathered_copper_bulb": [
+    94,
+    125,
+    98
+  ],
+  "minecraft:red_shulker_box": [
+    140,
+    31,
+    30
+  ],
+  "minecraft:waxed_weathered_copper_grate": [
+    106,
+    152,
+    110
+  ],
+  "minecraft:note_block": [
+    88,
+    58,
+    40
+  ],
+  "minecraft:cut_sandstone_slab": [
+    223,
+    214,
+    170
+  ],
+  "minecraft:end_portal_frame": [
+    91,
+    120,
+    97
+  ],
+  "minecraft:cyan_stained_glass_pane": [
+    73,
+    122,
+    147
+  ],
+  "minecraft:item_frame": [
+    116,
+    67,
+    42
+  ],
+  "minecraft:chest": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:dark_oak_sapling": [
+    61,
+    90,
+    30
+  ],
+  "minecraft:gold_ore": [
+    145,
+    133,
+    106
+  ],
+  "minecraft:end_stone_brick_wall": [
+    218,
+    224,
+    162
+  ],
+  "minecraft:prismarine_wall": [
+    99,
+    156,
+    151
+  ],
+  "minecraft:crimson_button": [
+    101,
+    48,
+    70
+  ],
+  "minecraft:blue_stained_glass": [
+    51,
+    76,
+    178
+  ],
+  "minecraft:weathered_copper_golem_statue": [
+    108,
+    153,
+    110
+  ],
+  "minecraft:birch_leaves": [
+    65,
+    84,
+    43
+  ],
+  "minecraft:anvil": [
+    72,
+    72,
+    72
+  ],
+  "minecraft:potted_bamboo": [
+    100,
+    138,
+    35
+  ],
+  "minecraft:cherry_stairs": [
+    226,
+    178,
+    172
+  ],
+  "minecraft:oak_wood": [
+    109,
+    85,
+    50
+  ],
+  "minecraft:stripped_birch_wood": [
+    196,
+    176,
+    118
+  ],
+  "minecraft:waxed_cut_copper_slab": [
+    191,
+    106,
+    80
+  ],
+  "minecraft:lightning_rod": [
+    255,
+    255,
+    255
+  ],
+  "minecraft:cherry_slab": [
+    226,
+    178,
+    172
+  ],
+  "minecraft:exposed_copper_bulb": [
+    135,
+    107,
+    89
+  ],
+  "minecraft:spruce_pressure_plate": [
+    114,
+    84,
+    48
+  ],
+  "minecraft:cornflower": [
+    79,
+    121,
+    146
+  ],
+  "minecraft:pink_petals": [
+    246,
+    180,
+    218
+  ],
+  "minecraft:prismarine_slab": [
+    99,
+    156,
+    151
+  ],
+  "minecraft:waxed_weathered_cut_copper_stairs": [
+    109,
+    145,
+    107
+  ],
+  "minecraft:sea_pickle": [
+    90,
+    97,
+    39
+  ],
+  "minecraft:oxidized_copper_chest": [
+    82,
+    162,
+    132
+  ],
+  "minecraft:warped_fungus": [
+    74,
+    109,
+    87
+  ],
+  "minecraft:lime_candle": [
+    124,
+    181,
+    30
+  ],
+  "minecraft:polished_blackstone_stairs": [
+    53,
+    48,
+    56
+  ],
+  "minecraft:dark_oak_fence_gate": [
+    66,
+    43,
+    20
+  ],
+  "minecraft:gray_candle_cake": [
+    248,
+    222,
+    214
+  ],
+  "minecraft:spruce_fence": [
+    114,
+    84,
+    48
+  ],
+  "minecraft:nether_bricks": [
+    44,
+    21,
+    26
+  ],
+  "minecraft:waxed_oxidized_cut_copper": [
+    79,
+    153,
+    126
+  ],
+  "minecraft:beetroots": [
+    93,
+    91,
+    30
+  ],
+  "minecraft:skeleton_skull": [
+    81,
+    62,
+    50
+  ],
+  "minecraft:waxed_weathered_lightning_rod": [
+    255,
+    255,
+    255
+  ],
+  "minecraft:purple_wall_banner": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:diorite_wall": [
+    188,
+    188,
+    188
+  ],
+  "minecraft:acacia_hanging_sign": [
+    174,
+    92,
+    59
+  ],
+  "minecraft:dirt_path": [
+    148,
+    121,
+    65
+  ],
+  "minecraft:bubble_coral_wall_fan": [
+    160,
+    32,
+    159
+  ],
+  "minecraft:fire_coral_wall_fan": [
+    158,
+    34,
+    45
+  ],
+  "minecraft:light_gray_wool": [
+    142,
+    142,
+    134
+  ],
+  "minecraft:acacia_fence_gate": [
+    168,
+    90,
+    50
+  ],
+  "minecraft:light_blue_concrete": [
+    35,
+    137,
+    198
+  ],
+  "minecraft:acacia_wood": [
+    103,
+    96,
+    86
+  ],
+  "minecraft:spruce_trapdoor": [
+    103,
+    79,
+    47
+  ],
+  "minecraft:deepslate_copper_ore": [
+    92,
+    93,
+    89
+  ],
+  "minecraft:copper_chest": [
+    192,
+    107,
+    79
+  ],
+  "minecraft:creeper_head": [
+    81,
+    62,
+    50
+  ],
+  "minecraft:red_nether_brick_slab": [
+    69,
+    7,
+    9
+  ],
+  "minecraft:oxidized_cut_copper_slab": [
+    79,
+    153,
+    126
+  ],
+  "minecraft:waxed_oxidized_chiseled_copper": [
+    83,
+    161,
+    132
+  ],
+  "minecraft:lime_shulker_box": [
+    99,
+    172,
+    23
+  ],
+  "minecraft:azure_bluet": [
+    169,
+    204,
+    127
+  ],
+  "minecraft:oxidized_copper_door": [
+    82,
+    160,
+    132
+  ],
+  "minecraft:pink_wall_banner": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:waxed_oxidized_copper_chain": [
+    61,
+    118,
+    99
+  ],
+  "minecraft:tuff_brick_stairs": [
+    98,
+    102,
+    95
+  ],
+  "minecraft:tuff_brick_slab": [
+    98,
+    102,
+    95
+  ],
+  "minecraft:green_stained_glass": [
+    102,
+    127,
+    51
+  ],
+  "minecraft:exposed_copper_chest": [
+    161,
+    125,
+    103
+  ],
+  "minecraft:bamboo_block": [
+    139,
+    141,
+    62
+  ],
+  "minecraft:oak_sign": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:seagrass": [
+    50,
+    126,
+    8
+  ],
+  "minecraft:sandstone_stairs": [
+    223,
+    214,
+    170
+  ],
+  "minecraft:potted_dark_oak_sapling": [
+    61,
+    90,
+    30
+  ],
+  "minecraft:purpur_pillar": [
+    171,
+    128,
+    171
+  ],
+  "minecraft:stone_bricks": [
+    122,
+    121,
+    122
+  ],
+  "minecraft:cyan_glazed_terracotta": [
+    52,
+    118,
+    125
+  ],
+  "minecraft:magenta_shulker_box": [
+    173,
+    54,
+    163
+  ],
+  "minecraft:oak_shelf": [
+    144,
+    115,
+    67
+  ],
+  "minecraft:command_block": [
+    177,
+    133,
+    107
+  ],
+  "minecraft:polished_blackstone_wall": [
+    53,
+    48,
+    56
+  ],
+  "minecraft:dark_oak_log": [
+    67,
+    45,
+    22
+  ],
+  "minecraft:lily_of_the_valley": [
+    123,
+    174,
+    95
+  ],
+  "minecraft:copper_bulb": [
+    156,
+    86,
+    57
+  ],
+  "minecraft:potted_birch_sapling": [
+    127,
+    160,
+    79
+  ],
+  "minecraft:exposed_lightning_rod": [
+    255,
+    255,
+    255
+  ],
+  "minecraft:yellow_wool": [
+    248,
+    197,
+    39
+  ],
+  "minecraft:hanging_roots": [
+    161,
+    115,
+    91
+  ],
+  "minecraft:bamboo_mosaic_stairs": [
+    190,
+    170,
+    78
+  ],
+  "minecraft:pale_oak_wall_sign": [
+    227,
+    217,
+    216
+  ],
+  "minecraft:bamboo": [
+    93,
+    144,
+    19
+  ],
+  "minecraft:damaged_anvil": [
+    72,
+    72,
+    72
+  ],
+  "minecraft:crafter": [
+    139,
+    100,
+    100
+  ],
+  "minecraft:stripped_oak_log": [
+    160,
+    129,
+    77
+  ],
+  "minecraft:waxed_weathered_copper_bulb": [
+    156,
+    157,
+    98
+  ],
+  "minecraft:brain_coral_fan": [
+    202,
+    84,
+    153
+  ],
+  "minecraft:sculk_vein": [
+    7,
+    48,
+    57
+  ],
+  "minecraft:short_dry_grass": [
+    187,
+    158,
+    108
+  ],
+  "minecraft:mangrove_hanging_sign": [
+    119,
+    54,
+    47
+  ],
+  "minecraft:copper_bars": [
+    155,
+    80,
+    55
+  ],
+  "minecraft:bubble_coral_fan": [
+    160,
+    32,
+    159
+  ],
+  "minecraft:red_sandstone": [
+    181,
+    97,
+    31
+  ],
+  "minecraft:brown_bed": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:bamboo_hanging_sign": [
+    193,
+    173,
+    80
+  ],
+  "minecraft:black_terracotta": [
+    37,
+    22,
+    16
+  ],
+  "minecraft:dragon_wall_head": [
+    81,
+    62,
+    50
+  ],
+  "minecraft:polished_blackstone_brick_slab": [
+    48,
+    42,
+    49
+  ],
+  "minecraft:potted_open_eyeblossom": [
+    133,
+    124,
+    127
+  ],
+  "minecraft:cherry_pressure_plate": [
+    226,
+    178,
+    172
+  ],
+  "minecraft:red_glazed_terracotta": [
+    181,
+    59,
+    53
+  ],
+  "minecraft:mud_brick_slab": [
+    137,
+    103,
+    79
+  ],
+  "minecraft:quartz_block": [
+    235,
+    229,
+    222
+  ],
+  "minecraft:smithing_table": [
+    57,
+    58,
+    70
+  ],
+  "minecraft:granite_stairs": [
+    149,
+    103,
+    85
+  ],
+  "minecraft:chiseled_nether_bricks": [
+    45,
+    22,
+    27
+  ],
+  "minecraft:cartography_table": [
+    103,
+    87,
+    67
+  ],
+  "minecraft:cobbled_deepslate_slab": [
+    77,
+    77,
+    80
+  ],
+  "minecraft:waxed_exposed_cut_copper_slab": [
+    154,
+    121,
+    101
+  ],
+  "minecraft:potted_dead_bush": [
+    107,
+    78,
+    40
+  ],
+  "minecraft:waxed_copper_chest": [
+    192,
+    107,
+    79
+  ],
+  "minecraft:potted_oak_sapling": [
+    77,
+    106,
+    40
+  ],
+  "minecraft:polished_diorite_stairs": [
+    192,
+    193,
+    194
+  ],
+  "minecraft:black_stained_glass_pane": [
+    24,
+    24,
+    24
+  ],
+  "minecraft:acacia_shelf": [
+    156,
+    85,
+    53
+  ],
+  "minecraft:pointed_dripstone": [
+    129,
+    102,
+    89
+  ],
+  "minecraft:purple_bed": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:cut_sandstone": [
+    223,
+    214,
+    170
+  ],
+  "minecraft:dark_oak_button": [
+    66,
+    43,
+    20
+  ],
+  "minecraft:flowering_azalea_leaves": [
+    27,
+    78,
+    5
+  ],
+  "minecraft:spruce_sign": [
+    114,
+    84,
+    48
+  ],
+  "minecraft:brown_wall_banner": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:potted_jungle_sapling": [
+    47,
+    81,
+    16
+  ],
+  "minecraft:dark_oak_wall_sign": [
+    66,
+    43,
+    20
+  ],
+  "minecraft:brown_candle": [
+    147,
+    96,
+    51
+  ],
+  "minecraft:dead_tube_coral_wall_fan": [
+    128,
+    122,
+    118
+  ],
+  "minecraft:piglin_wall_head": [
+    81,
+    62,
+    50
+  ],
+  "minecraft:zombie_wall_head": [
+    81,
+    62,
+    50
+  ],
+  "minecraft:stripped_pale_oak_log": [
+    235,
+    226,
+    225
+  ],
+  "minecraft:mangrove_button": [
+    117,
+    54,
+    48
+  ],
+  "minecraft:detector_rail": [
+    137,
+    103,
+    89
+  ],
+  "minecraft:mossy_cobblestone_stairs": [
+    110,
+    118,
+    94
+  ],
+  "minecraft:cracked_stone_bricks": [
+    118,
+    117,
+    118
+  ],
+  "minecraft:weathered_copper_grate": [
+    106,
+    152,
+    110
+  ],
+  "minecraft:snow_block": [
+    249,
+    254,
+    254
+  ],
+  "minecraft:stripped_dark_oak_wood": [
+    72,
+    56,
+    36
+  ],
+  "minecraft:chiseled_quartz_block": [
+    231,
+    226,
+    217
+  ],
+  "minecraft:poppy": [
+    128,
+    64,
+    37
+  ],
+  "minecraft:dead_brain_coral_wall_fan": [
+    132,
+    125,
+    121
+  ],
+  "minecraft:acacia_pressure_plate": [
+    168,
+    90,
+    50
+  ],
+  "minecraft:exposed_copper_grate": [
+    161,
+    125,
+    104
+  ],
+  "minecraft:birch_log": [
+    193,
+    179,
+    135
+  ],
+  "minecraft:nether_wart": [
+    115,
+    17,
+    18
+  ],
+  "minecraft:cracked_polished_blackstone_bricks": [
+    44,
+    37,
+    43
+  ],
+  "minecraft:dead_tube_coral_fan": [
+    128,
+    122,
+    118
+  ],
+  "minecraft:black_banner": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:red_wall_banner": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:shulker_box": [
+    139,
+    96,
+    139
+  ],
+  "minecraft:mossy_cobblestone_wall": [
+    110,
+    118,
+    94
+  ],
+  "minecraft:brown_terracotta": [
+    77,
+    51,
+    35
+  ],
+  "minecraft:potted_spruce_sapling": [
+    44,
+    60,
+    36
+  ],
+  "minecraft:warped_hyphae": [
+    58,
+    58,
+    77
+  ],
+  "minecraft:fire": [
+    211,
+    140,
+    53
+  ],
+  "minecraft:potted_pink_tulip": [
+    99,
+    157,
+    78
+  ],
+  "minecraft:mossy_cobblestone_slab": [
+    110,
+    118,
+    94
+  ],
+  "minecraft:mushroom_stem": [
+    203,
+    196,
+    185
+  ],
+  "minecraft:ancient_debris": [
+    94,
+    66,
+    58
+  ],
+  "minecraft:copper_lantern": [
+    158,
+    108,
+    75
+  ],
+  "minecraft:emerald_ore": [
+    108,
+    136,
+    115
+  ],
+  "minecraft:brown_concrete_powder": [
+    125,
+    84,
+    53
+  ],
+  "minecraft:brown_stained_glass_pane": [
+    97,
+    73,
+    48
+  ],
+  "minecraft:bubble_coral": [
+    161,
+    23,
+    159
+  ],
+  "minecraft:reinforced_deepslate": [
+    80,
+    82,
+    78
+  ],
+  "minecraft:weathered_cut_copper": [
+    109,
+    145,
+    107
+  ],
+  "minecraft:smooth_sandstone_stairs": [
+    223,
+    214,
+    170
+  ],
+  "minecraft:potted_cactus": [
+    85,
+    127,
+    43
+  ],
+  "minecraft:light_blue_candle": [
+    34,
+    137,
+    196
+  ],
+  "minecraft:lime_wool": [
+    112,
+    185,
+    25
+  ],
+  "minecraft:orange_concrete_powder": [
+    227,
+    131,
+    31
+  ],
+  "minecraft:exposed_cut_copper_slab": [
+    154,
+    121,
+    101
+  ],
+  "minecraft:cocoa": [
+    133,
+    134,
+    62
+  ],
+  "minecraft:farmland": [
+    143,
+    102,
+    70
+  ],
+  "minecraft:cyan_candle_cake": [
+    248,
+    222,
+    214
+  ],
+  "minecraft:dark_oak_fence": [
+    66,
+    43,
+    20
+  ],
+  "minecraft:white_terracotta": [
+    209,
+    178,
+    161
+  ],
+  "minecraft:yellow_terracotta": [
+    186,
+    133,
+    35
+  ],
+  "minecraft:potted_cornflower": [
+    79,
+    121,
+    146
+  ],
+  "minecraft:deepslate_tile_wall": [
+    54,
+    54,
+    55
+  ],
+  "minecraft:grass_block": [
+    83,
+    108,
+    51
+  ],
+  "minecraft:lime_wall_banner": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:polished_granite_stairs": [
+    154,
+    106,
+    89
+  ],
+  "minecraft:orange_candle_cake": [
+    248,
+    222,
+    214
+  ],
+  "minecraft:wither_skeleton_skull": [
+    81,
+    62,
+    50
+  ],
+  "minecraft:crimson_hanging_sign": [
+    137,
+    57,
+    90
+  ],
+  "minecraft:waxed_oxidized_copper_grate": [
+    82,
+    161,
+    131
+  ],
+  "minecraft:oak_fence": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:mangrove_log": [
+    102,
+    48,
+    42
+  ],
+  "minecraft:polished_basalt": [
+    99,
+    98,
+    100
+  ],
+  "minecraft:waxed_exposed_chiseled_copper": [
+    154,
+    119,
+    100
+  ],
+  "minecraft:bell": [
+    66,
+    43,
+    20
+  ],
+  "minecraft:smooth_sandstone": [
+    223,
+    214,
+    170
+  ],
+  "minecraft:resin_brick_stairs": [
+    205,
+    88,
+    24
+  ],
+  "minecraft:dead_bubble_coral": [
+    132,
+    124,
+    120
+  ],
+  "minecraft:structure_block": [
+    69,
+    57,
+    70
+  ],
+  "minecraft:prismarine_brick_stairs": [
+    99,
+    171,
+    158
+  ],
+  "minecraft:crimson_door": [
+    114,
+    54,
+    79
+  ],
+  "minecraft:cyan_shulker_box": [
+    20,
+    121,
+    135
+  ],
+  "minecraft:yellow_candle_cake": [
+    248,
+    222,
+    214
+  ],
+  "minecraft:candle": [
+    235,
+    210,
+    173
+  ],
+  "minecraft:white_bed": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:weathered_copper_chain": [
+    72,
+    108,
+    91
+  ],
+  "minecraft:pink_wool": [
+    237,
+    141,
+    172
+  ],
+  "minecraft:pale_oak_slab": [
+    227,
+    217,
+    216
+  ],
+  "minecraft:nether_gold_ore": [
+    115,
+    54,
+    42
+  ],
+  "minecraft:light_gray_banner": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:chiseled_polished_blackstone": [
+    53,
+    48,
+    56
+  ],
+  "minecraft:waxed_exposed_copper_lantern": [
+    148,
+    131,
+    104
+  ],
+  "minecraft:green_terracotta": [
+    76,
+    83,
+    42
+  ],
+  "minecraft:horn_coral_block": [
+    216,
+    199,
+    66
+  ],
+  "minecraft:chorus_plant": [
+    93,
+    57,
+    93
+  ],
+  "minecraft:gravel": [
+    131,
+    127,
+    126
+  ],
+  "minecraft:glass_pane": [
+    170,
+    210,
+    217
+  ],
+  "minecraft:mangrove_stairs": [
+    117,
+    54,
+    48
+  ],
+  "minecraft:fire_coral_fan": [
+    158,
+    34,
+    45
+  ],
+  "minecraft:target": [
+    226,
+    170,
+    157
+  ],
+  "minecraft:orange_tulip": [
+    93,
+    142,
+    30
+  ],
+  "minecraft:stripped_acacia_log": [
+    166,
+    91,
+    51
+  ],
+  "minecraft:red_mushroom": [
+    216,
+    75,
+    67
+  ],
+  "minecraft:mycelium": [
+    111,
+    98,
+    101
+  ],
+  "minecraft:lever": [
+    127,
+    127,
+    127
+  ],
+  "minecraft:pale_oak_pressure_plate": [
+    227,
+    217,
+    216
+  ],
+  "minecraft:waxed_exposed_copper_bulb": [
+    194,
+    145,
+    100
+  ],
+  "minecraft:cut_copper_stairs": [
+    191,
+    106,
+    80
+  ],
+  "minecraft:cyan_bed": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:ochre_froglight": [
+    250,
+    245,
+    206
+  ],
+  "minecraft:potted_azalea_bush": [
+    100,
+    122,
+    47
+  ],
+  "minecraft:oak_door": [
+    140,
+    110,
+    66
+  ],
+  "minecraft:cherry_wall_sign": [
+    226,
+    178,
+    172
+  ],
+  "minecraft:pink_stained_glass": [
+    242,
+    127,
+    165
+  ],
+  "minecraft:pumpkin_stem": [
+    154,
+    154,
+    154
+  ],
+  "minecraft:spruce_wood": [
+    58,
+    37,
+    16
+  ],
+  "minecraft:sculk": [
+    12,
+    29,
+    36
+  ],
+  "minecraft:black_wool": [
+    20,
+    21,
+    25
+  ],
+  "minecraft:deepslate_diamond_ore": [
+    83,
+    106,
+    106
+  ],
+  "minecraft:potatoes": [
+    58,
+    129,
+    40
+  ],
+  "minecraft:mangrove_wood": [
+    83,
+    66,
+    41
+  ],
+  "minecraft:redstone_wall_torch": [
+    101,
+    69,
+    43
+  ],
+  "minecraft:stripped_oak_wood": [
+    177,
+    144,
+    86
+  ],
+  "minecraft:light_gray_glazed_terracotta": [
+    144,
+    166,
+    167
+  ],
+  "minecraft:azalea": [
+    101,
+    124,
+    47
+  ],
+  "minecraft:big_dripleaf_stem": [
+    91,
+    115,
+    45
+  ],
+  "minecraft:red_sandstone_slab": [
+    181,
+    97,
+    31
+  ],
+  "minecraft:dead_bubble_coral_block": [
+    131,
+    123,
+    119
+  ],
+  "minecraft:stripped_cherry_wood": [
+    215,
+    145,
+    148
+  ],
+  "minecraft:pale_oak_fence": [
+    227,
+    217,
+    216
+  ],
+  "minecraft:crimson_fungus": [
+    141,
+    44,
+    29
+  ],
+  "minecraft:frogspawn": [
+    110,
+    95,
+    86
+  ],
+  "minecraft:infested_cracked_stone_bricks": [
+    118,
+    117,
+    118
+  ],
+  "minecraft:waxed_oxidized_copper_lantern": [
+    78,
+    138,
+    111
+  ],
+  "minecraft:exposed_copper_bars": [
+    134,
+    107,
+    89
+  ],
+  "minecraft:oxidized_cut_copper": [
+    79,
+    153,
+    126
+  ],
+  "minecraft:lime_terracotta": [
+    103,
+    117,
+    52
+  ],
+  "minecraft:end_portal": [
+    15,
+    10,
+    24
+  ],
+  "minecraft:warped_trapdoor": [
+    47,
+    119,
+    111
+  ],
+  "minecraft:chiseled_stone_bricks": [
+    119,
+    118,
+    119
+  ],
+  "minecraft:polished_deepslate_slab": [
+    72,
+    72,
+    73
+  ],
+  "minecraft:stripped_spruce_wood": [
+    115,
+    89,
+    52
+  ],
+  "minecraft:light_blue_shulker_box": [
+    49,
+    163,
+    212
+  ],
+  "minecraft:barrel": [
+    134,
+    100,
+    58
+  ],
+  "minecraft:jungle_sign": [
+    160,
+    115,
+    80
+  ],
+  "minecraft:blue_wall_banner": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:red_mushroom_block": [
+    200,
+    46,
+    45
+  ],
+  "minecraft:green_glazed_terracotta": [
+    117,
+    142,
+    67
+  ],
+  "minecraft:spruce_wall_sign": [
+    114,
+    84,
+    48
+  ],
+  "minecraft:yellow_shulker_box": [
+    248,
+    188,
+    29
+  ],
+  "minecraft:light_gray_concrete_powder": [
+    154,
+    154,
+    148
+  ],
+  "minecraft:prismarine_bricks": [
+    99,
+    171,
+    158
+  ],
+  "minecraft:deepslate": [
+    87,
+    87,
+    89
+  ],
+  "minecraft:sandstone_slab": [
+    223,
+    214,
+    170
+  ],
+  "minecraft:infested_stone_bricks": [
+    122,
+    121,
+    122
+  ],
+  "minecraft:dirt": [
+    134,
+    96,
+    67
+  ],
+  "minecraft:dead_fire_coral_wall_fan": [
+    124,
+    118,
+    114
+  ],
+  "minecraft:wheat": [
+    8,
+    127,
+    15
+  ],
+  "minecraft:gray_wool": [
+    62,
+    68,
+    71
+  ],
+  "minecraft:oak_hanging_sign": [
+    177,
+    144,
+    86
+  ],
+  "minecraft:oxidized_copper_bulb": [
+    70,
+    132,
+    109
+  ],
+  "minecraft:creaking_heart": [
+    73,
+    59,
+    54
+  ],
+  "minecraft:waxed_exposed_copper_chain": [
+    126,
+    101,
+    83
+  ],
+  "minecraft:birch_pressure_plate": [
+    192,
+    175,
+    121
+  ],
+  "minecraft:magenta_banner": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:blackstone_stairs": [
+    42,
+    36,
+    41
+  ],
+  "minecraft:white_candle": [
+    210,
+    216,
+    217
+  ],
+  "minecraft:warped_shelf": [
+    51,
+    140,
+    133
+  ],
+  "minecraft:polished_blackstone": [
+    53,
+    48,
+    56
+  ],
+  "minecraft:bamboo_mosaic_slab": [
+    190,
+    170,
+    78
+  ],
+  "minecraft:bricks": [
+    150,
+    97,
+    83
+  ],
+  "minecraft:open_eyeblossom": [
+    133,
+    124,
+    127
+  ],
+  "minecraft:player_head": [
+    81,
+    62,
+    50
+  ],
+  "minecraft:red_concrete_powder": [
+    168,
+    54,
+    50
+  ],
+  "minecraft:white_concrete_powder": [
+    225,
+    227,
+    227
+  ],
+  "minecraft:light_gray_carpet": [
+    142,
+    142,
+    134
+  ],
+  "minecraft:soul_fire": [
+    51,
+    192,
+    197
+  ],
+  "minecraft:granite_wall": [
+    149,
+    103,
+    85
+  ],
+  "minecraft:cherry_planks": [
+    226,
+    178,
+    172
+  ],
+  "minecraft:birch_button": [
+    192,
+    175,
+    121
+  ],
+  "minecraft:blue_banner": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:soul_sand": [
+    81,
+    62,
+    50
+  ],
+  "minecraft:sunflower": [
+    56,
+    135,
+    30
+  ],
+  "minecraft:spruce_slab": [
+    114,
+    84,
+    48
+  ],
+  "minecraft:lapis_block": [
+    30,
+    67,
+    140
+  ],
+  "minecraft:melon": [
+    111,
+    144,
+    30
+  ],
+  "minecraft:warped_roots": [
+    20,
+    138,
+    124
+  ],
+  "minecraft:composter": [
+    152,
+    98,
+    51
+  ],
+  "minecraft:end_rod": [
+    207,
+    198,
+    187
+  ],
+  "minecraft:turtle_egg": [
+    218,
+    214,
+    177
+  ],
+  "minecraft:stone_stairs": [
+    125,
+    125,
+    125
+  ],
+  "minecraft:blue_carpet": [
+    53,
+    57,
+    157
+  ],
+  "minecraft:gray_shulker_box": [
+    55,
+    58,
+    62
+  ],
+  "minecraft:birch_stairs": [
+    192,
+    175,
+    121
+  ],
+  "minecraft:stonecutter": [
+    123,
+    118,
+    111
+  ],
+  "minecraft:cut_red_sandstone_slab": [
+    181,
+    97,
+    31
+  ],
+  "minecraft:potted_orange_tulip": [
+    93,
+    142,
+    30
+  ],
+  "minecraft:jungle_log": [
+    149,
+    109,
+    70
+  ],
+  "minecraft:oak_button": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:granite": [
+    149,
+    103,
+    85
+  ],
+  "minecraft:oak_log": [
+    151,
+    121,
+    73
+  ],
+  "minecraft:blackstone": [
+    42,
+    36,
+    41
+  ],
+  "minecraft:rose_bush": [
+    97,
+    83,
+    37
+  ],
+  "minecraft:gilded_blackstone": [
+    55,
+    42,
+    38
+  ],
+  "minecraft:iron_block": [
+    220,
+    220,
+    220
+  ],
+  "minecraft:crimson_shelf": [
+    129,
+    52,
+    82
+  ],
+  "minecraft:black_glazed_terracotta": [
+    67,
+    30,
+    32
+  ],
+  "minecraft:yellow_bed": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:warped_planks": [
+    43,
+    104,
+    99
+  ],
+  "minecraft:stone_brick_wall": [
+    122,
+    121,
+    122
+  ],
+  "minecraft:muddy_mangrove_roots": [
+    70,
+    58,
+    45
+  ],
+  "minecraft:magenta_concrete": [
+    169,
+    48,
+    159
+  ],
+  "minecraft:magenta_candle_cake": [
+    248,
+    222,
+    214
+  ],
+  "minecraft:cut_copper": [
+    191,
+    106,
+    80
+  ],
+  "minecraft:dark_oak_pressure_plate": [
+    66,
+    43,
+    20
+  ],
+  "minecraft:quartz_stairs": [
+    235,
+    229,
+    222
+  ],
+  "minecraft:cactus_flower": [
+    209,
+    120,
+    135
+  ],
+  "minecraft:light_blue_concrete_powder": [
+    74,
+    180,
+    213
+  ],
+  "minecraft:pale_oak_fence_gate": [
+    227,
+    217,
+    216
+  ],
+  "minecraft:exposed_cut_copper": [
+    154,
+    121,
+    101
+  ],
+  "minecraft:powered_rail": [
+    154,
+    109,
+    74
+  ],
+  "minecraft:pink_carpet": [
+    237,
+    141,
+    172
+  ],
+  "minecraft:cauldron": [
+    73,
+    72,
+    74
+  ],
+  "minecraft:cobblestone_stairs": [
+    127,
+    127,
+    127
+  ],
+  "minecraft:deepslate_lapis_ore": [
+    79,
+    90,
+    115
+  ],
+  "minecraft:red_nether_brick_wall": [
+    69,
+    7,
+    9
+  ],
+  "minecraft:observer": [
+    98,
+    98,
+    98
+  ],
+  "minecraft:twisting_vines": [
+    20,
+    143,
+    124
+  ],
+  "minecraft:spruce_wall_hanging_sign": [
+    115,
+    89,
+    52
+  ],
+  "minecraft:dead_brain_coral_fan": [
+    132,
+    125,
+    121
+  ],
+  "minecraft:brick_wall": [
+    150,
+    97,
+    83
+  ],
+  "minecraft:light_blue_candle_cake": [
+    248,
+    222,
+    214
+  ],
+  "minecraft:exposed_copper_chain": [
+    126,
+    101,
+    83
+  ],
+  "minecraft:lime_stained_glass": [
+    127,
+    204,
+    25
+  ],
+  "minecraft:potted_fern": [
+    124,
+    124,
+    124
+  ],
+  "minecraft:potted_cherry_sapling": [
+    164,
+    117,
+    143
+  ],
+  "minecraft:brain_coral_block": [
+    207,
+    91,
+    159
+  ],
+  "minecraft:pale_hanging_moss": [
+    103,
+    108,
+    101
+  ],
+  "minecraft:crimson_stairs": [
+    101,
+    48,
+    70
+  ],
+  "minecraft:lime_glazed_terracotta": [
+    162,
+    197,
+    55
+  ],
+  "minecraft:warped_nylium": [
+    43,
+    114,
+    101
+  ],
+  "minecraft:oxidized_copper_bars": [
+    64,
+    122,
+    100
+  ],
+  "minecraft:gray_carpet": [
+    62,
+    68,
+    71
+  ],
+  "minecraft:crimson_trapdoor": [
+    103,
+    50,
+    72
+  ],
+  "minecraft:tripwire_hook": [
+    142,
+    133,
+    118
+  ],
+  "minecraft:tall_grass": [
+    72,
+    94,
+    44
+  ],
+  "minecraft:white_carpet": [
+    233,
+    236,
+    236
+  ],
+  "minecraft:jungle_planks": [
+    160,
+    115,
+    80
+  ],
+  "minecraft:stripped_crimson_hyphae": [
+    137,
+    57,
+    90
+  ],
+  "minecraft:azalea_leaves": [
+    25,
+    80,
+    4
+  ],
+  "minecraft:birch_trapdoor": [
+    207,
+    194,
+    157
+  ],
+  "minecraft:waxed_weathered_copper_lantern": [
+    95,
+    133,
+    99
+  ],
+  "minecraft:nether_quartz_ore": [
+    117,
+    65,
+    62
+  ],
+  "minecraft:cherry_button": [
+    226,
+    178,
+    172
+  ],
+  "minecraft:dead_horn_coral_block": [
+    133,
+    126,
+    122
+  ],
+  "minecraft:dead_horn_coral": [
+    142,
+    135,
+    129
+  ],
+  "minecraft:wither_rose": [
+    41,
+    44,
+    23
+  ],
+  "minecraft:magenta_candle": [
+    182,
+    69,
+    161
+  ],
+  "minecraft:pale_moss_block": [
+    106,
+    112,
+    104
+  ],
+  "minecraft:jungle_door": [
+    163,
+    119,
+    84
+  ],
+  "minecraft:bubble_coral_block": [
+    165,
+    26,
+    162
+  ],
+  "minecraft:waxed_oxidized_copper_chest": [
+    82,
+    162,
+    132
+  ],
+  "minecraft:purple_stained_glass": [
+    127,
+    63,
+    178
+  ],
+  "minecraft:dark_oak_slab": [
+    66,
+    43,
+    20
+  ],
+  "minecraft:white_glazed_terracotta": [
+    188,
+    212,
+    202
+  ],
+  "minecraft:loom": [
+    142,
+    119,
+    91
+  ],
+  "minecraft:lava": [
+    212,
+    90,
+    18
+  ],
+  "minecraft:tube_coral": [
+    47,
+    83,
+    197
+  ],
+  "minecraft:copper_chain": [
+    151,
+    79,
+    54
+  ],
+  "minecraft:stone_button": [
+    125,
+    125,
+    125
+  ],
+  "minecraft:dead_tube_coral_block": [
+    130,
+    123,
+    119
+  ],
+  "minecraft:smooth_red_sandstone": [
+    181,
+    97,
+    31
+  ],
+  "minecraft:cherry_trapdoor": [
+    226,
+    178,
+    172
+  ],
+  "minecraft:crimson_wall_sign": [
+    101,
+    48,
+    70
+  ],
+  "minecraft:waxed_oxidized_cut_copper_slab": [
+    79,
+    153,
+    126
+  ],
+  "minecraft:jungle_pressure_plate": [
+    160,
+    115,
+    80
+  ],
+  "minecraft:birch_shelf": [
+    175,
+    155,
+    106
+  ],
+  "minecraft:purple_glazed_terracotta": [
+    109,
+    47,
+    152
+  ],
+  "minecraft:crimson_fence": [
+    101,
+    48,
+    70
+  ],
+  "minecraft:birch_door": [
+    220,
+    209,
+    176
+  ],
+  "minecraft:acacia_leaves": [
+    42,
+    105,
+    13
+  ],
+  "minecraft:mud_brick_wall": [
+    137,
+    103,
+    79
+  ],
+  "minecraft:brown_shulker_box": [
+    106,
+    66,
+    35
+  ],
+  "minecraft:stone_pressure_plate": [
+    125,
+    125,
+    125
+  ],
+  "minecraft:weathered_copper_door": [
+    110,
+    150,
+    109
+  ],
+  "minecraft:dead_brain_coral_block": [
+    124,
+    117,
+    114
+  ],
+  "minecraft:waxed_copper_door": [
+    192,
+    109,
+    82
+  ],
+  "minecraft:sculk_shrieker": [
+    198,
+    205,
+    169
+  ],
+  "minecraft:lime_carpet": [
+    112,
+    185,
+    25
+  ],
+  "minecraft:light_gray_stained_glass": [
+    153,
+    153,
+    153
+  ],
+  "minecraft:shroomlight": [
+    240,
+    146,
+    70
+  ],
+  "minecraft:mangrove_trapdoor": [
+    110,
+    46,
+    42
+  ],
+  "minecraft:budding_amethyst": [
+    132,
+    96,
+    186
+  ],
+  "minecraft:repeating_command_block": [
+    127,
+    109,
+    171
+  ],
+  "minecraft:waxed_exposed_copper_chest": [
+    161,
+    125,
+    103
+  ],
+  "minecraft:oak_slab": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:waxed_exposed_copper_grate": [
+    161,
+    125,
+    104
+  ],
+  "minecraft:sniffer_egg": [
+    135,
+    105,
+    67
+  ],
+  "minecraft:acacia_wall_hanging_sign": [
+    174,
+    92,
+    59
+  ],
+  "minecraft:orange_stained_glass_pane": [
+    208,
+    122,
+    48
+  ],
+  "minecraft:red_stained_glass_pane": [
+    147,
+    48,
+    48
+  ],
+  "minecraft:coal_ore": [
+    105,
+    105,
+    105
+  ],
+  "minecraft:yellow_glazed_terracotta": [
+    234,
+    192,
+    88
+  ],
+  "minecraft:gray_candle": [
+    80,
+    94,
+    96
+  ],
+  "minecraft:packed_ice": [
+    141,
+    180,
+    250
+  ],
+  "minecraft:white_stained_glass_pane": [
+    246,
+    246,
+    246
+  ],
+  "minecraft:birch_sapling": [
+    127,
+    160,
+    79
+  ],
+  "minecraft:prismarine_stairs": [
+    99,
+    156,
+    151
+  ],
+  "minecraft:daylight_detector": [
+    106,
+    109,
+    112
+  ],
+  "minecraft:spruce_leaves": [
+    47,
+    75,
+    47
+  ],
+  "minecraft:white_wool": [
+    233,
+    236,
+    236
+  ],
+  "minecraft:sea_lantern": [
+    172,
+    199,
+    190
+  ],
+  "minecraft:purpur_stairs": [
+    169,
+    125,
+    169
+  ],
+  "minecraft:copper_grate": [
+    191,
+    107,
+    79
+  ],
+  "minecraft:bamboo_sapling": [
+    92,
+    89,
+    35
+  ],
+  "minecraft:orange_glazed_terracotta": [
+    154,
+    147,
+    91
+  ],
+  "minecraft:magenta_bed": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:dark_oak_leaves": [
+    42,
+    106,
+    14
+  ],
+  "minecraft:warped_wall_hanging_sign": [
+    57,
+    150,
+    147
+  ],
+  "minecraft:stripped_mangrove_log": [
+    109,
+    43,
+    43
+  ],
+  "minecraft:cut_red_sandstone": [
+    181,
+    97,
+    31
+  ],
+  "minecraft:white_tulip": [
+    93,
+    164,
+    71
+  ],
+  "minecraft:tinted_glass": [
+    43,
+    38,
+    45
+  ],
+  "minecraft:tube_coral_block": [
+    49,
+    87,
+    206
+  ],
+  "minecraft:oxidized_lightning_rod": [
+    79,
+    154,
+    127
+  ],
+  "minecraft:lodestone": [
+    147,
+    149,
+    152
+  ],
+  "minecraft:oak_wall_hanging_sign": [
+    177,
+    144,
+    86
+  ],
+  "minecraft:bamboo_pressure_plate": [
+    193,
+    173,
+    80
+  ],
+  "minecraft:dark_prismarine_stairs": [
+    51,
+    91,
+    75
+  ],
+  "minecraft:blast_furnace": [
+    80,
+    80,
+    81
+  ],
+  "minecraft:waxed_weathered_copper": [
+    108,
+    153,
+    110
+  ],
+  "minecraft:bamboo_fence_gate": [
+    206,
+    185,
+    86
+  ],
+  "minecraft:gray_terracotta": [
+    57,
+    42,
+    35
+  ],
+  "minecraft:purple_banner": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:heavy_core": [
+    82,
+    86,
+    94
+  ],
+  "minecraft:polished_blackstone_bricks": [
+    48,
+    42,
+    49
+  ],
+  "minecraft:waxed_copper_bulb": [
+    215,
+    150,
+    106
+  ],
+  "minecraft:light_gray_bed": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:polished_diorite_slab": [
+    192,
+    193,
+    194
+  ],
+  "minecraft:waxed_weathered_copper_trapdoor": [
+    108,
+    153,
+    110
+  ],
+  "minecraft:jungle_shelf": [
+    155,
+    121,
+    73
+  ],
+  "minecraft:chorus_flower": [
+    151,
+    120,
+    151
+  ],
+  "minecraft:waxed_oxidized_copper_bars": [
+    64,
+    122,
+    100
+  ],
+  "minecraft:cactus": [
+    85,
+    127,
+    43
+  ],
+  "minecraft:fire_coral": [
+    166,
+    37,
+    46
+  ],
+  "minecraft:green_concrete": [
+    73,
+    91,
+    36
+  ],
+  "minecraft:moss_carpet": [
+    89,
+    109,
+    45
+  ],
+  "minecraft:tuff": [
+    108,
+    109,
+    102
+  ],
+  "minecraft:waxed_weathered_copper_golem_statue": [
+    108,
+    153,
+    110
+  ],
+  "minecraft:pale_oak_trapdoor": [
+    229,
+    220,
+    218
+  ],
+  "minecraft:green_stained_glass_pane": [
+    97,
+    122,
+    48
+  ],
+  "minecraft:potted_crimson_roots": [
+    127,
+    8,
+    41
+  ],
+  "minecraft:large_amethyst_bud": [
+    161,
+    126,
+    202
+  ],
+  "minecraft:quartz_bricks": [
+    234,
+    229,
+    221
+  ],
+  "minecraft:dropper": [
+    110,
+    109,
+    109
+  ],
+  "minecraft:leaf_litter": [
+    170,
+    170,
+    170
+  ],
+  "minecraft:mud_brick_stairs": [
+    137,
+    103,
+    79
+  ],
+  "minecraft:chiseled_red_sandstone": [
+    181,
+    97,
+    31
+  ],
+  "minecraft:green_concrete_powder": [
+    97,
+    119,
+    44
+  ],
+  "minecraft:mangrove_fence_gate": [
+    117,
+    54,
+    48
+  ],
+  "minecraft:suspicious_sand": [
+    210,
+    193,
+    145
+  ],
+  "minecraft:tall_dry_grass": [
+    196,
+    171,
+    122
+  ],
+  "minecraft:rail": [
+    130,
+    115,
+    89
+  ],
+  "minecraft:glow_lichen": [
+    112,
+    130,
+    121
+  ],
+  "minecraft:cracked_nether_bricks": [
+    40,
+    20,
+    23
+  ],
+  "minecraft:crying_obsidian": [
+    32,
+    10,
+    60
+  ],
+  "minecraft:weathered_copper_chest": [
+    108,
+    153,
+    110
+  ],
+  "minecraft:yellow_concrete": [
+    240,
+    175,
+    21
+  ],
+  "minecraft:chiseled_sandstone": [
+    223,
+    214,
+    170
+  ],
+  "minecraft:jungle_fence": [
+    160,
+    115,
+    80
+  ],
+  "minecraft:jungle_fence_gate": [
+    160,
+    115,
+    80
+  ],
+  "minecraft:test_block": [
+    190,
+    158,
+    120
+  ],
+  "minecraft:netherrack": [
+    97,
+    38,
+    38
+  ],
+  "minecraft:pink_shulker_box": [
+    230,
+    121,
+    157
+  ],
+  "minecraft:andesite": [
+    136,
+    136,
+    136
+  ],
+  "minecraft:moss_block": [
+    89,
+    109,
+    45
+  ],
+  "minecraft:mangrove_wall_hanging_sign": [
+    119,
+    54,
+    47
+  ],
+  "minecraft:red_tulip": [
+    89,
+    128,
+    32
+  ],
+  "minecraft:bamboo_planks": [
+    193,
+    173,
+    80
+  ],
+  "minecraft:tuff_brick_wall": [
+    98,
+    102,
+    95
+  ],
+  "minecraft:blue_glazed_terracotta": [
+    47,
+    64,
+    139
+  ],
+  "minecraft:light_gray_concrete": [
+    125,
+    125,
+    115
+  ],
+  "minecraft:candle_cake": [
+    248,
+    222,
+    214
+  ],
+  "minecraft:resin_brick_wall": [
+    205,
+    88,
+    24
+  ],
+  "minecraft:oak_wall_sign": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:black_carpet": [
+    20,
+    21,
+    25
+  ],
+  "minecraft:honey_block": [
+    251,
+    185,
+    52
+  ],
+  "minecraft:gold_block": [
+    246,
+    208,
+    61
+  ],
+  "minecraft:purple_terracotta": [
+    118,
+    70,
+    86
+  ],
+  "minecraft:mangrove_fence": [
+    117,
+    54,
+    48
+  ],
+  "minecraft:polished_granite_slab": [
+    154,
+    106,
+    89
+  ],
+  "minecraft:magenta_terracotta": [
+    149,
+    88,
+    108
+  ],
+  "minecraft:kelp_plant": [
+    86,
+    130,
+    42
+  ],
+  "minecraft:yellow_candle": [
+    216,
+    183,
+    74
+  ],
+  "minecraft:cherry_log": [
+    54,
+    33,
+    44
+  ],
+  "minecraft:weathered_copper_bars": [
+    84,
+    123,
+    94
+  ],
+  "minecraft:potted_brown_mushroom": [
+    153,
+    116,
+    92
+  ],
+  "minecraft:acacia_sapling": [
+    118,
+    117,
+    23
+  ],
+  "minecraft:waxed_oxidized_cut_copper_stairs": [
+    79,
+    153,
+    126
+  ],
+  "minecraft:potted_mangrove_propagule": [
+    134,
+    96,
+    67
+  ],
+  "minecraft:weathered_chiseled_copper": [
+    104,
+    150,
+    111
+  ],
+  "minecraft:cherry_sapling": [
+    164,
+    117,
+    143
+  ],
+  "minecraft:pale_oak_stairs": [
+    227,
+    217,
+    216
+  ],
+  "minecraft:spruce_hanging_sign": [
+    115,
+    89,
+    52
+  ],
+  "minecraft:potted_torchflower": [
+    100,
+    101,
+    77
+  ],
+  "minecraft:spawner": [
+    36,
+    46,
+    62
+  ],
+  "minecraft:deepslate_tiles": [
+    54,
+    54,
+    55
+  ],
+  "minecraft:bookshelf": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:tube_coral_fan": [
+    50,
+    91,
+    208
+  ],
+  "minecraft:redstone_ore": [
+    140,
+    109,
+    109
+  ],
+  "minecraft:potted_blue_orchid": [
+    47,
+    162,
+    168
+  ],
+  "minecraft:stripped_mangrove_wood": [
+    119,
+    54,
+    47
+  ],
+  "minecraft:acacia_wall_sign": [
+    168,
+    90,
+    50
+  ],
+  "minecraft:dark_prismarine": [
+    51,
+    91,
+    75
+  ],
+  "minecraft:chiseled_deepslate": [
+    54,
+    54,
+    54
+  ],
+  "minecraft:potted_wither_rose": [
+    41,
+    44,
+    23
+  ],
+  "minecraft:horn_coral_wall_fan": [
+    205,
+    183,
+    61
+  ],
+  "minecraft:oak_sapling": [
+    77,
+    106,
+    40
+  ],
+  "minecraft:conduit": [
+    159,
+    139,
+    113
+  ],
+  "minecraft:dark_oak_planks": [
+    66,
+    43,
+    20
+  ],
+  "minecraft:light_weighted_pressure_plate": [
+    246,
+    208,
+    61
+  ],
+  "minecraft:magenta_wall_banner": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:amethyst_block": [
+    133,
+    97,
+    191
+  ],
+  "minecraft:green_bed": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:hay_block": [
+    165,
+    139,
+    12
+  ],
+  "minecraft:mud_bricks": [
+    137,
+    103,
+    79
+  ],
+  "minecraft:brick_stairs": [
+    150,
+    97,
+    83
+  ],
+  "minecraft:cherry_fence": [
+    226,
+    178,
+    172
+  ],
+  "minecraft:end_gateway": [
+    15,
+    10,
+    24
+  ],
+  "minecraft:smooth_red_sandstone_stairs": [
+    181,
+    97,
+    31
+  ],
+  "minecraft:infested_mossy_stone_bricks": [
+    115,
+    121,
+    105
+  ],
+  "minecraft:white_stained_glass": [
+    255,
+    255,
+    255
+  ],
+  "minecraft:powder_snow": [
+    248,
+    253,
+    253
+  ],
+  "minecraft:iron_bars": [
+    136,
+    139,
+    135
+  ],
+  "minecraft:copper_block": [
+    192,
+    107,
+    79
+  ],
+  "minecraft:jungle_wood": [
+    85,
+    67,
+    25
+  ],
+  "minecraft:bedrock": [
+    85,
+    85,
+    85
+  ],
+  "minecraft:polished_tuff_slab": [
+    97,
+    104,
+    99
+  ],
+  "minecraft:cobblestone_wall": [
+    127,
+    127,
+    127
+  ],
+  "minecraft:brewing_stand": [
+    116,
+    105,
+    105
+  ],
+  "minecraft:waxed_exposed_lightning_rod": [
+    159,
+    120,
+    103
+  ],
+  "minecraft:slime_block": [
+    111,
+    192,
+    91
+  ],
+  "minecraft:jungle_slab": [
+    160,
+    115,
+    80
+  ],
+  "minecraft:acacia_trapdoor": [
+    156,
+    87,
+    51
+  ],
+  "minecraft:blue_orchid": [
+    47,
+    162,
+    168
+  ],
+  "minecraft:pitcher_plant": [
+    122,
+    144,
+    189
+  ],
+  "minecraft:black_candle": [
+    38,
+    36,
+    57
+  ],
+  "minecraft:tnt": [
+    142,
+    62,
+    53
+  ],
+  "minecraft:black_concrete_powder": [
+    25,
+    26,
+    31
+  ],
+  "minecraft:iron_ore": [
+    136,
+    129,
+    122
+  ],
+  "minecraft:piglin_head": [
+    81,
+    62,
+    50
+  ],
+  "minecraft:jungle_trapdoor": [
+    152,
+    110,
+    77
+  ],
+  "minecraft:potted_oxeye_daisy": [
+    179,
+    202,
+    143
+  ],
+  "minecraft:cyan_concrete_powder": [
+    36,
+    147,
+    157
+  ],
+  "minecraft:trial_spawner": [
+    62,
+    80,
+    92
+  ],
+  "minecraft:oak_planks": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:jungle_button": [
+    160,
+    115,
+    80
+  ],
+  "minecraft:chiseled_bookshelf": [
+    178,
+    144,
+    88
+  ],
+  "minecraft:tuff_stairs": [
+    108,
+    109,
+    102
+  ],
+  "minecraft:purple_candle": [
+    124,
+    33,
+    144
+  ],
+  "minecraft:waxed_copper_golem_statue": [
+    192,
+    107,
+    79
+  ],
+  "minecraft:mangrove_pressure_plate": [
+    117,
+    54,
+    48
+  ],
+  "minecraft:copper_ore": [
+    124,
+    125,
+    120
+  ],
+  "minecraft:cherry_shelf": [
+    202,
+    130,
+    129
+  ],
+  "minecraft:light_blue_wool": [
+    58,
+    175,
+    217
+  ],
+  "minecraft:cyan_stained_glass": [
+    76,
+    127,
+    153
+  ],
+  "minecraft:acacia_planks": [
+    168,
+    90,
+    50
+  ],
+  "minecraft:acacia_fence": [
+    168,
+    90,
+    50
+  ],
+  "minecraft:powder_snow_cauldron": [
+    73,
+    72,
+    74
+  ],
+  "minecraft:exposed_cut_copper_stairs": [
+    154,
+    121,
+    101
+  ],
+  "minecraft:smooth_quartz_slab": [
+    236,
+    230,
+    223
+  ],
+  "minecraft:light_blue_terracotta": [
+    113,
+    108,
+    137
+  ],
+  "minecraft:oxidized_copper_lantern": [
+    78,
+    138,
+    111
+  ],
+  "minecraft:hopper": [
+    75,
+    74,
+    75
+  ],
+  "minecraft:potted_pale_oak_sapling": [
+    109,
+    105,
+    99
+  ],
+  "minecraft:red_concrete": [
+    142,
+    32,
+    32
+  ],
+  "minecraft:waxed_lightning_rod": [
+    196,
+    111,
+    83
+  ],
+  "minecraft:yellow_carpet": [
+    248,
+    197,
+    39
+  ],
+  "minecraft:potted_warped_fungus": [
+    74,
+    109,
+    87
+  ],
+  "minecraft:waxed_exposed_copper_golem_statue": [
+    161,
+    125,
+    103
+  ],
+  "minecraft:acacia_log": [
+    150,
+    88,
+    55
+  ],
+  "minecraft:crimson_pressure_plate": [
+    101,
+    48,
+    70
+  ],
+  "minecraft:stripped_acacia_wood": [
+    174,
+    92,
+    59
+  ],
+  "minecraft:weathered_cut_copper_slab": [
+    109,
+    145,
+    107
+  ],
+  "minecraft:andesite_stairs": [
+    136,
+    136,
+    136
+  ],
+  "minecraft:waxed_oxidized_copper_trapdoor": [
+    83,
+    161,
+    132
+  ],
+  "minecraft:carved_pumpkin": [
+    198,
+    118,
+    24
+  ],
+  "minecraft:dark_oak_door": [
+    76,
+    51,
+    25
+  ],
+  "minecraft:bone_block": [
+    209,
+    206,
+    179
+  ],
+  "minecraft:melon_stem": [
+    153,
+    153,
+    153
+  ],
+  "minecraft:copper_wall_torch": [
+    117,
+    109,
+    73
+  ],
+  "minecraft:cobbled_deepslate_wall": [
+    77,
+    77,
+    80
+  ],
+  "minecraft:amethyst_cluster": [
+    163,
+    126,
+    207
+  ],
+  "minecraft:beacon": [
+    175,
+    213,
+    219
+  ],
+  "minecraft:resin_bricks": [
+    205,
+    88,
+    24
+  ],
+  "minecraft:lily_pad": [
+    32,
+    61,
+    118
+  ],
+  "minecraft:brown_mushroom_block": [
+    149,
+    111,
+    81
+  ],
+  "minecraft:deepslate_bricks": [
+    70,
+    70,
+    71
+  ],
+  "minecraft:activator_rail": [
+    115,
+    87,
+    74
+  ],
+  "minecraft:bush": [
+    119,
+    120,
+    119
+  ],
+  "minecraft:purpur_slab": [
+    169,
+    125,
+    169
+  ],
+  "minecraft:exposed_copper": [
+    161,
+    125,
+    103
+  ],
+  "minecraft:polished_andesite_slab": [
+    132,
+    134,
+    133
+  ],
+  "minecraft:orange_bed": [
+    162,
+    130,
+    78
+  ],
+  "minecraft:gray_glazed_terracotta": [
+    83,
+    90,
+    93
+  ],
+  "minecraft:mossy_stone_brick_wall": [
+    115,
+    121,
+    105
+  ],
+  "minecraft:waxed_weathered_cut_copper_slab": [
+    109,
+    145,
+    107
+  ],
+  "minecraft:pale_oak_sapling": [
+    109,
+    105,
+    99
+  ]
+}

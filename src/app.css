@@ -1,3 +1,11 @@
+html,
+body,
+#app {
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+}
+
 :root {
   /* macOS Tahoe - SF Pro Font Family */
   --font-body: -apple-system, BlinkMacSystemFont, "SF Pro Display",
@@ -49,6 +57,32 @@
   /* Tahoe - Glow effects */
   --glow-primary: 0 0 20px rgba(0, 122, 255, 0.3);
   --glow-card: 0 8px 32px rgba(0, 0, 0, 0.08);
+
+  /* Item Rarity Colors */
+  --rarity-common: #9ca3af;
+  --rarity-uncommon: #22c55e;
+  --rarity-rare: #3b82f6;
+  --rarity-epic: #a855f7;
+  --rarity-legendary: #eab308;
+
+  /* Item Category Colors */
+  --category-weapons: #ef4444;
+  --category-tools: #f97316;
+  --category-armor: #06b6d4;
+  --category-blocks: #6b7280;
+  --category-consumables: #10b981;
+  --category-misc: #64748b;
+
+  /* Enchantment Color */
+  --enchant-color: #a78bfa;
+
+  /* Modified/Edited State */
+  --modified-color: #facc15;
+
+  /* Health/Hunger/XP Colors */
+  --health-color: #ef4444;
+  --hunger-color: #d97706;
+  --xp-color: #22c55e;
 }
 
 @media (prefers-color-scheme: dark) {

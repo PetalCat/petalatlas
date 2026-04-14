@@ -101,6 +101,15 @@
     <section class="quick-actions">
       <h2>Quick Actions</h2>
       <div class="action-grid">
+        <button
+          class="action-card"
+          disabled={world.is_zip}
+          onclick={() => goto($page.url.pathname + "/map")}
+        >
+          <span class="action-icon">🗺️</span>
+          <span class="action-title">Map Viewer</span>
+          <span class="action-desc">View chunk map</span>
+        </button>
         <button class="action-card" disabled={world.is_zip}>
           <span class="action-icon">✏️</span>
           <span class="action-title">Edit NBT</span>

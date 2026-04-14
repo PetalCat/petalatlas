@@ -26,13 +26,19 @@ walkdir = "2.5"
 base64 = "0.22"
 zip = "2.0"
 chrono = { version = "0.4", features = ["serde"] }
-fastnbt = "2.6"
 flate2 = "1.0"
 tauri-plugin-dialog = "2"
 reqwest = { version = "0.12", features = ["json"] }
 rayon = "1.10"
 rand = "0.8"
 lazy_static = "1.4"
+quartz_nbt = { version = "0.2.9", features = ["serde"] }
+zuri_nbt = { version = "0.4.0", features = ["serde"] }
+dirs = "5.0"
+fastnbt = "2.5"
+byteorder = "1.5"
+image = { version = "0.24", features = ["png", "jpeg"] }
+anvil-region = "0.4"
 
 [profile.dev]
 incremental = true

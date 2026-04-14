@@ -221,6 +221,8 @@
     text-overflow: ellipsis;
     letter-spacing: -0.02em;
     line-height: 1.3;
+    flex: 1; /* Added */
+    min-width: 0; /* Added */
   }
 
   .platform-badge {

@@ -22,6 +22,7 @@
   let scanSpeed = $state(0);
   let currentPhase = $state("");
   let searchQuery = $state("");
+  let scrolled = $state(false);
 
   // Interpolation for smooth counting
   let displayedTotalItems = $state(0);
@@ -104,6 +105,23 @@
   onMount(() => {
     // Load cached worlds first
     loadCachedWorlds();
+
+    // Scroll detection for compact header
+    let scrollContainer: HTMLElement | null = null;
+    const handleScroll = () => {
+      if (scrollContainer) {
+        scrolled = scrollContainer.scrollTop > 20;
+      }
+    };
+
+    // Find the scroll container after mount
+    setTimeout(() => {
+      scrollContainer = document.querySelector(".page-root");
+      if (scrollContainer) {
+        scrollContainer.addEventListener("scroll", handleScroll);
+      }
+    }, 100);
+
     // Listen for scan phase changes
     const unlistenPhase = listen<string>("scan-phase", (event) => {
       currentPhase = event.payload;
@@ -246,262 +264,275 @@
   }
 </script>
 
-<div class="library-layout">
-  <!-- Sidebar -->
-  <aside class="library-sidebar">
-    <nav class="sidebar-nav">
-      <!-- Quick Actions -->
-      <div class="nav-section">
-        <span class="nav-section-title">Quick Actions</span>
-        <button class="nav-item" onclick={() => (showSettings = true)}>
-          <span class="nav-icon">➕</span>
-          <span class="nav-label">Add Worlds</span>
-        </button>
-        <button class="nav-item" disabled>
-          <span class="nav-icon">🔄</span>
-          <span class="nav-label">Rescan</span>
-          <span class="nav-badge">Soon</span>
-        </button>
-      </div>
-
-      <!-- Filters -->
-      <div class="nav-section">
-        <span class="nav-section-title">Filters</span>
-        <button class="nav-item active">
-          <span class="nav-icon">🌍</span>
-          <span class="nav-label">All Worlds</span>
-          <span class="nav-count">{worlds.length}</span>
-        </button>
-        <button class="nav-item" disabled>
-          <span class="nav-icon">☕</span>
-          <span class="nav-label">Java Edition</span>
-          <span class="nav-badge">Soon</span>
-        </button>
-        <button class="nav-item" disabled>
-          <span class="nav-icon">🛏️</span>
-          <span class="nav-label">Bedrock Edition</span>
-          <span class="nav-badge">Soon</span>
-        </button>
-        <button class="nav-item" disabled>
-          <span class="nav-icon">⭐</span>
-          <span class="nav-label">Favorites</span>
-          <span class="nav-badge">v2</span>
-        </button>
-      </div>
-
-      <!-- Recent Worlds -->
-      {#if worlds.length > 0}
+<div class="page-root">
+  <div class="library-layout">
+    <!-- Sidebar -->
+    <aside class="library-sidebar">
+      <nav class="sidebar-nav">
+        <!-- Quick Actions -->
         <div class="nav-section">
-          <span class="nav-section-title">Recent Worlds</span>
-          {#each worlds.slice(0, 5) as world (world.id)}
-            <a
-              href="/world/{world.id}"
-              class="nav-item nav-world-item"
-              title={world.name}
-            >
-              {#if world.icon}
-                <img
-                  src="data:image/png;base64,{world.icon}"
-                  alt=""
-                  class="nav-world-icon"
-                />
-              {:else}
-                <span class="nav-world-icon">🌍</span>
-              {/if}
-              <span class="nav-label truncate">{world.name}</span>
-            </a>
-          {/each}
-        </div>
-      {/if}
-    </nav>
-  </aside>
-
-  <!-- Main Content -->
-  <main class="library-main">
-    <!-- Tahoe-style translucent header -->
-    <header class="library-header">
-      <div class="header-content">
-        <div class="header-top">
-          <div class="title-section">
-            <h1 class="library-title">World Library</h1>
-            {#if worlds.length > 0}
-              <span class="world-count"
-                >{worlds.length} world{worlds.length !== 1 ? "s" : ""}</span
-              >
-            {/if}
-          </div>
-
-          <button
-            class="add-worlds-btn"
-            onclick={() => (showSettings = !showSettings)}
-          >
-            <span class="btn-icon">➕</span>
-            <span>Add Worlds</span>
+          <span class="nav-section-title">Quick Actions</span>
+          <button class="nav-item" onclick={() => (showSettings = true)}>
+            <span class="nav-icon">➕</span>
+            <span class="nav-label">Add Worlds</span>
+          </button>
+          <a href="/nbt" class="nav-item">
+            <span class="nav-icon">📝</span>
+            <span class="nav-label">NBT Editor</span>
+          </a>
+          <button class="nav-item" disabled>
+            <span class="nav-icon">🔄</span>
+            <span class="nav-label">Rescan</span>
+            <span class="nav-badge">Soon</span>
           </button>
         </div>
 
+        <!-- Filters -->
+        <div class="nav-section">
+          <span class="nav-section-title">Filters</span>
+          <button class="nav-item active">
+            <span class="nav-icon">🌍</span>
+            <span class="nav-label">All Worlds</span>
+            <span class="nav-count">{worlds.length}</span>
+          </button>
+          <button class="nav-item" disabled>
+            <span class="nav-icon">☕</span>
+            <span class="nav-label">Java Edition</span>
+            <span class="nav-badge">Soon</span>
+          </button>
+          <button class="nav-item" disabled>
+            <span class="nav-icon">🛏️</span>
+            <span class="nav-label">Bedrock Edition</span>
+            <span class="nav-badge">Soon</span>
+          </button>
+          <button class="nav-item" disabled>
+            <span class="nav-icon">⭐</span>
+            <span class="nav-label">Favorites</span>
+            <span class="nav-badge">v2</span>
+          </button>
+        </div>
+
+        <!-- Recent Worlds -->
         {#if worlds.length > 0}
-          <!-- macOS-style search bar -->
-          <div class="search-container">
-            <span class="search-icon">🔍</span>
-            <input
-              type="text"
-              bind:value={searchQuery}
-              placeholder="Search worlds..."
-              class="search-input"
-            />
-            {#if searchQuery}
-              <button class="clear-search" onclick={() => (searchQuery = "")}>
-                ✕
-              </button>
-            {/if}
-          </div>
-        {/if}
-      </div>
-
-      <!-- Collapsible Add Worlds Panel -->
-      {#if showSettings}
-        <div class="add-panel">
-          <div class="panel-content">
-            <div class="input-group">
-              <label class="input-label">Scan Location</label>
-              <input
-                type="text"
-                bind:value={customPath}
-                placeholder="/Users/you/Documents"
-                class="path-input"
-              />
-            </div>
-
-            <div class="settings-row">
-              <div class="setting-item">
-                <label class="setting-label">
-                  Search Depth: <strong>{maxDepth}</strong>
-                </label>
-                <input
-                  type="range"
-                  bind:value={maxDepth}
-                  min="3"
-                  max="15"
-                  class="depth-slider"
-                />
-                <span class="hint-text">
-                  Lower = faster, Higher = finds buried worlds
-                </span>
-              </div>
-
-              <label class="checkbox-container">
-                <input type="checkbox" bind:checked={scanZips} />
-                <span class="checkbox-label">Scan .zip files</span>
-                <span class="checkbox-hint">(slower)</span>
-              </label>
-            </div>
-
-            <button onclick={scanWorlds} disabled={loading} class="scan-btn">
-              {#if loading}
-                <span class="btn-spinner">⏳</span>
-                <span>Scanning...</span>
-              {:else}
-                <span class="btn-icon">🔍</span>
-                <span>Start Scan</span>
-              {/if}
-            </button>
-          </div>
-        </div>
-      {/if}
-
-      <!-- Scanning Progress -->
-      {#if loading}
-        <div class="progress-container">
-          <div class="progress-info">
-            <div class="progress-text">
-              <span class="current-path">{currentPath}</span>
-              <span class="progress-stats">
-                {#if itemsProcessed === 0}
-                  {displayedTotalItems.toLocaleString()} items found
+          <div class="nav-section">
+            <span class="nav-section-title">Recent Worlds</span>
+            {#each worlds.slice(0, 5) as world (world.id)}
+              <a
+                href="/world/{world.id}"
+                class="nav-item nav-world-item"
+                title={world.name}
+              >
+                {#if world.icon}
+                  <img
+                    src="data:image/png;base64,{world.icon}"
+                    alt=""
+                    class="nav-world-icon"
+                  />
                 {:else}
-                  {worldsFound} worlds • {itemsProcessed.toLocaleString()} / {totalItems.toLocaleString()}
-                  items
-                  {#if eta}• {eta} left{/if}
+                  <span class="nav-world-icon">🌍</span>
                 {/if}
-              </span>
-            </div>
-            <div class="progress-actions">
-              {#if scanningZip}
-                <button onclick={skipZip} class="action-btn skip"
-                  >Skip Zip</button
-                >
-              {/if}
-              <button onclick={cancelScan} class="action-btn cancel"
-                >Cancel</button
-              >
-            </div>
-          </div>
-          <div class="progress-track">
-            <div
-              class="progress-fill"
-              style="width: {totalItems > 0
-                ? (itemsProcessed / totalItems) * 100
-                : 0}%"
-            ></div>
-          </div>
-        </div>
-      {/if}
-    </header>
-
-    <!-- World Library Content -->
-    <section class="library-content">
-      {#if errorMsg}
-        <div class="error-banner">
-          <span class="error-icon">⚠️</span>
-          <p>{errorMsg}</p>
-        </div>
-      {/if}
-
-      {#if filteredWorlds.length > 0}
-        <div class="world-library">
-          <div class="world-grid">
-            {#each filteredWorlds as world, i (world.id)}
-              <div
-                class="world-card-wrapper"
-                style="animation-delay: {i * 0.05}s"
-                onclick={() => goto(`/world/${world.id}`)}
-                role="button"
-                tabindex="0"
-              >
-                <WorldCard {world} />
-              </div>
+                <span class="nav-label truncate">{world.name}</span>
+              </a>
             {/each}
           </div>
+        {/if}
+      </nav>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="library-main">
+      <!-- Tahoe-style translucent header -->
+      <header class="library-header" class:compact={scrolled}>
+        <div class="header-content">
+          <div class="header-top">
+            <div class="title-section">
+              <h1 class="library-title">World Library</h1>
+              {#if worlds.length > 0}
+                <span class="world-count"
+                  >{worlds.length} world{worlds.length !== 1 ? "s" : ""}</span
+                >
+              {/if}
+            </div>
+
+            <button
+              class="add-worlds-btn"
+              onclick={() => (showSettings = !showSettings)}
+            >
+              <span class="btn-icon">➕</span>
+              <span>Add Worlds</span>
+            </button>
+          </div>
+
+          {#if worlds.length > 0}
+            <!-- macOS-style search bar -->
+            <div class="search-container">
+              <span class="search-icon">🔍</span>
+              <input
+                type="text"
+                bind:value={searchQuery}
+                placeholder="Search worlds..."
+                class="search-input"
+              />
+              {#if searchQuery}
+                <button class="clear-search" onclick={() => (searchQuery = "")}>
+                  ✕
+                </button>
+              {/if}
+            </div>
+          {/if}
         </div>
-      {:else if worlds.length > 0}
-        <!-- No search results -->
-        <div class="empty-state">
-          <div class="empty-icon">🔍</div>
-          <h2>No worlds found</h2>
-          <p>Try a different search term</p>
-        </div>
-      {:else if !loading}
-        <!-- Empty library state -->
-        <div class="empty-state">
-          <div class="empty-icon">🌍</div>
-          <h2>Your World Library is Empty</h2>
-          <p>Get started by scanning for Minecraft worlds on your system</p>
-          <button
-            class="empty-action-btn"
-            onclick={() => (showSettings = true)}
-          >
-            <span>➕</span>
-            Add Worlds
-          </button>
-        </div>
-      {/if}
-    </section>
-  </main>
+
+        <!-- Collapsible Add Worlds Panel -->
+        {#if showSettings}
+          <div class="add-panel">
+            <div class="panel-content">
+              <div class="input-group">
+                <label class="input-label">Scan Location</label>
+                <input
+                  type="text"
+                  bind:value={customPath}
+                  placeholder="/Users/you/Documents"
+                  class="path-input"
+                />
+              </div>
+
+              <div class="settings-row">
+                <div class="setting-item">
+                  <label class="setting-label">
+                    Search Depth: <strong>{maxDepth}</strong>
+                  </label>
+                  <input
+                    type="range"
+                    bind:value={maxDepth}
+                    min="3"
+                    max="15"
+                    class="depth-slider"
+                  />
+                  <span class="hint-text">
+                    Lower = faster, Higher = finds buried worlds
+                  </span>
+                </div>
+
+                <label class="checkbox-container">
+                  <input type="checkbox" bind:checked={scanZips} />
+                  <span class="checkbox-label">Scan .zip files</span>
+                  <span class="checkbox-hint">(slower)</span>
+                </label>
+              </div>
+
+              <button onclick={scanWorlds} disabled={loading} class="scan-btn">
+                {#if loading}
+                  <span class="btn-spinner">⏳</span>
+                  <span>Scanning...</span>
+                {:else}
+                  <span class="btn-icon">🔍</span>
+                  <span>Start Scan</span>
+                {/if}
+              </button>
+            </div>
+          </div>
+        {/if}
+
+        <!-- Scanning Progress -->
+        {#if loading}
+          <div class="progress-container">
+            <div class="progress-info">
+              <div class="progress-text">
+                <span class="current-path">{currentPath}</span>
+                <span class="progress-stats">
+                  {#if itemsProcessed === 0}
+                    {displayedTotalItems.toLocaleString()} items found
+                  {:else}
+                    {worldsFound} worlds • {itemsProcessed.toLocaleString()} / {totalItems.toLocaleString()}
+                    items
+                    {#if eta}• {eta} left{/if}
+                  {/if}
+                </span>
+              </div>
+              <div class="progress-actions">
+                {#if scanningZip}
+                  <button onclick={skipZip} class="action-btn skip"
+                    >Skip Zip</button
+                  >
+                {/if}
+                <button onclick={cancelScan} class="action-btn cancel"
+                  >Cancel</button
+                >
+              </div>
+            </div>
+            <div class="progress-track">
+              <div
+                class="progress-fill"
+                style="width: {totalItems > 0
+                  ? (itemsProcessed / totalItems) * 100
+                  : 0}%"
+              ></div>
+            </div>
+          </div>
+        {/if}
+      </header>
+
+      <!-- World Library Content -->
+      <section class="library-content">
+        {#if errorMsg}
+          <div class="error-banner">
+            <span class="error-icon">⚠️</span>
+            <p>{errorMsg}</p>
+          </div>
+        {/if}
+
+        {#if filteredWorlds.length > 0}
+          <div class="world-library">
+            <div class="world-grid">
+              {#each filteredWorlds as world, i (world.id)}
+                <div
+                  class="world-card-wrapper"
+                  style="animation-delay: {i * 0.05}s"
+                  onclick={() => goto(`/world/${world.id}`)}
+                  role="button"
+                  tabindex="0"
+                >
+                  <WorldCard {world} />
+                </div>
+              {/each}
+            </div>
+          </div>
+        {:else if worlds.length > 0}
+          <!-- No search results -->
+          <div class="empty-state">
+            <div class="empty-icon">🔍</div>
+            <h2>No worlds found</h2>
+            <p>Try a different search term</p>
+          </div>
+        {:else if !loading}
+          <!-- Empty library state -->
+          <div class="empty-state">
+            <div class="empty-icon">🌍</div>
+            <h2>Your World Library is Empty</h2>
+            <p>Get started by scanning for Minecraft worlds on your system</p>
+            <button
+              class="empty-action-btn"
+              onclick={() => (showSettings = true)}
+            >
+              <span>➕</span>
+              Add Worlds
+            </button>
+          </div>
+        {/if}
+      </section>
+    </main>
+  </div>
 </div>
 
 <style>
   /* macOS Tahoe - World Library Styles */
+
+  /* Scrollable Page Container */
+  .page-root {
+    flex: 1;
+    min-height: 0;
+    overflow-y: auto;
+  }
 
   /* Library Layout with Sidebar */
   .library-layout {
@@ -551,6 +582,7 @@
     cursor: pointer;
     transition: all 0.2s;
     position: relative;
+    overflow: hidden; /* Added to constrain overflow */
   }
 
   .nav-item:hover:not(:disabled) {
@@ -587,6 +619,7 @@
 
   .nav-label {
     flex: 1;
+    min-width: 0; /* Added to allow truncation */
     text-align: left;
     font-size: 0.875rem;
     font-weight: 500;
@@ -676,6 +709,32 @@
     justify-content: space-between;
     align-items: center;
     margin-bottom: 1.25rem;
+    transition: margin 0.2s ease;
+  }
+
+  .library-header.compact .header-top {
+    margin-bottom: 0.75rem;
+  }
+
+  .library-header {
+    transition: all 0.2s ease;
+  }
+
+  .library-header.compact .header-content {
+    padding: 1rem 2rem;
+  }
+
+  .library-header.compact .library-title {
+    font-size: 1.5rem;
+  }
+
+  .library-header.compact .world-count {
+    font-size: 0.875rem;
+    padding: 0.25rem 0.75rem;
+  }
+
+  .library-header.compact .search-container {
+    max-width: 500px;
   }
 
   .title-section {

@@ -365,7 +365,9 @@ pub fn parse_java_world(path: &Path) -> Option<WorldInfo> {
     let mut bytes = Vec::new();
     decoder.read_to_end(&mut bytes).ok()?;
 
-    let level_dat: LevelDat = fastnbt::from_bytes(&bytes).ok()?;
+    let mut cursor = std::io::Cursor::new(&bytes);
+    let (tag, _) = quartz_nbt::io::read_nbt(&mut cursor, quartz_nbt::io::Flavor::Uncompressed).ok()?;
+    let level_dat: LevelDat = serde_json::from_value(serde_json::to_value(tag).ok()?).ok()?;
     let data = level_dat.Data;
 
     let icon_path = path.join("icon.png");
@@ -436,8 +438,10 @@ fn parse_zip_world(path: &Path, skip_flag: std::sync::Arc<std::sync::atomic::Ato
         let mut bytes = Vec::new();
         decoder.read_to_end(&mut bytes).ok()?;
         
-        let level_dat: LevelDat = fastnbt::from_bytes(&bytes).ok()?;
-        let data = level_dat.Data;
+    let mut cursor = std::io::Cursor::new(&bytes);
+    let (tag, _) = quartz_nbt::io::read_nbt(&mut cursor, quartz_nbt::io::Flavor::Uncompressed).ok()?;
+    let level_dat: LevelDat = serde_json::from_value(serde_json::to_value(tag).ok()?).ok()?;
+    let data = level_dat.Data;
 
         let icon = if let Some(idx) = icon_index {
              let mut file = archive.by_index(idx).ok()?;
